@@ -1,0 +1,149 @@
+\begin{thebibliography}{10}
+
+\bibitem{world_vals_survey2009}
+World values survey 1981-2008 official aggregate v.20090901.
+\newblock {\em World Values Survey Association (www.worldvaluessurvey.org),
+  Aggregate File Producer: {ASEP/JDS,} Madrid}, 2009.
+
+\bibitem{benjamin2009}
+D.~J. Benjamin and J.~M. Shapiro.
+\newblock Thin-slice forecasts of gubernatorial elections.
+\newblock {\em Review of Economics and Statistics (Forthcoming)}, 2009.
+
+\bibitem{benklershaw2010}
+Y.~Benkler and A.~Shaw.
+\newblock A tale of two blogospheres: Discursive practices on the left and
+  right.
+\newblock {\em {Berkman Center for Internet and Society Working Paper Series}},
+  2010.
+
+\bibitem{chandler2010}
+D.~Chandler and A.~Kapelner.
+\newblock Breaking monotony with meaning: Motivation in crowdsourcing markets.
+\newblock {\em University of Chicago mimeo}, 2010.
+
+\bibitem{chen2009}
+D.~L. Chen and J.~J. Horton.
+\newblock The wages of paycuts: Evidence from a field experiment.
+\newblock {\em Working Paper}, 2009.
+
+\bibitem{cohen_coefficient_1960}
+J.~Cohen.
+\newblock A coefficient of agreement for nominal scales.
+\newblock {\em Educational \& Psychological Measurement}, 20(1):37--46, 1960.
+
+\bibitem{duarte2009tc}
+J.~Duarte, S.~Siegel, and L.~A. Young.
+\newblock Trust and credit.
+\newblock {\em SSRN eLibrary}, 2009.
+
+\bibitem{freedman2008multtreat}
+D.~A. Freedman.
+\newblock On regression adjustments in experiments with several treatments.
+\newblock {\em The Annals of Applied Statistics}, 2(1):176--196, 2008.
+
+\bibitem{freedman2008logistic}
+D.~A. Freedman.
+\newblock Randomization does not justify logistic regression.
+\newblock {\em Statistical Science}, 23(2):237--249, 2008.
+
+\bibitem{hargittai2009update}
+E.~Hargittai.
+\newblock An update on survey measures of {Web-Oriented} digital literacy.
+\newblock {\em Social Science {Computer} Review}, 27(1):130--137, 2009.
+
+\bibitem{Hopkins-King2010}
+D.~Hopkins and G.~King.
+\newblock A method of automated nonparametric content analysis for social
+  science.
+\newblock {\em American Journal of Political Science}, 54(1):229--247, 2010.
+
+\bibitem{horton2010labor}
+J.~Horton and L.~Chilton.
+\newblock The labor economics of paid crowdsourcing.
+\newblock {\em Proceedings of the ACM Conference on Electronic Commerce 2010},
+  2010.
+
+\bibitem{hortonZeck2010}
+J.~J. Horton, D.~Rand, and R.~J. Zeckhauser.
+\newblock {The Online Laboratory: Conducting Experiments in a Real Labor
+  Market}.
+\newblock {\em SSRN eLibrary}, 2010.
+
+\bibitem{hsu1996}
+J.~C. Hsu.
+\newblock {\em Multiple comparisons: Theory and Methods}.
+\newblock {CRC} Press, 1996.
+
+\bibitem{huberman-crowdsourcing}
+B.~A. Huberman, D.~Romero, and F.~Wu.
+\newblock Crowdsourcing, attention and productivity.
+\newblock {\em Journal of Information Science (in press)}, 2009.
+
+\bibitem{ipeirotis2010}
+P.~Ipeirotis.
+\newblock Demographics of mechanical turk.
+\newblock {\em New York University Working Paper}, 2010.
+
+\bibitem{kittur2008crowdsourcing}
+A.~Kittur, E.~H. Chi, and B.~Suh.
+\newblock Crowdsourcing user studies with mechanical turk.
+\newblock {\em Proceedings of Computer Human Interaction (CHI-2008)}, 2008.
+
+\bibitem{krippendorff_content_2003}
+K.~H. Krippendorff.
+\newblock {\em Content Analysis: An Introduction to Its Methodology}.
+\newblock Sage Publications, Inc, 2nd edition, 2003.
+
+\bibitem{little-turkit}
+G.~Little, L.~B. Chilton, R.~Miller, and M.~Goldman.
+\newblock Turkit: Tools for iterative tasks on mechanical turk.
+\newblock {\em Working Paper, MIT}, 2009.
+
+\bibitem{mason2009fip}
+W.~Mason and D.~J. Watts.
+\newblock Financial incentives and the `performance of crowds'.
+\newblock In {\em Proc. ACM SIGKDD Workshop on Human Computation (HCOMP)},
+  2009.
+
+\bibitem{prelec_bts_2004}
+D.~Prelec.
+\newblock A bayesian truth serum for subjective data.
+\newblock {\em Science}, 306(5695):462--466, Oct. 2004.
+
+\bibitem{rosenthalrubin1984}
+R.~Rosenthal and D.~B. Rubin.
+\newblock Multiple contrasts and ordered bonferroni procedures.
+\newblock {\em Journal of Educational Psychology}, 76(6):1028--1034, 1984.
+
+\bibitem{shaffer1995}
+J.~P. Shaffer.
+\newblock Multiple hypothesis testing.
+\newblock {\em {Annual Review of Psychology}}, 46:561--584, 1995.
+
+\bibitem{sheng2008get}
+V.~S. Sheng, F.~Provost, and P.~G. Ipeirotis.
+\newblock Get another label? improving data quality and data mining using
+  multiple, noisy labelers.
+\newblock {\em Knowledge Discovery and Data Minding 2008 (KDD-2008)}, 2008.
+
+\bibitem{snow2008cheap}
+R.~Snow, B.~O'Connor, D.~Jurafsky, and A.~Y. Ng.
+\newblock Cheap and fast---but is it good? evaluating non-expert annotations
+  for natural language tasks.
+\newblock {\em Proceedings of the Conference on Empirical Methods in Natural
+  Language Processing (EMNLP 2008)}, 2008.
+
+\bibitem{von2004labeling}
+L.~Von~Ahn and L.~Dabbish.
+\newblock {Labeling images with a computer game}.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 319--326. ACM, 2004.
+
+\bibitem{wickham2008ggplot2}
+H.~Wickham.
+\newblock ggplot2: An implementation of the grammar of graphics.
+\newblock {\em R package version 0.7, URL:
+  http://CRAN.R-project.org/package=ggplot2}, 2008.
+
+\end{thebibliography}

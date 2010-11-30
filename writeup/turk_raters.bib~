@@ -1,0 +1,591 @@
+@article{mas2009peers,
+  title={{Peers at work}},
+  author={Mas, A. and Moretti, E.},
+  journal={American Economic Review},
+  volume={99},
+  number={1},
+  pages={112--145},
+  year={2009},
+  publisher={American Economic Association Publications}
+}
+
+@article{little-turkit,
+  title={TurKit: Tools for Iterative Tasks on Mechanical Turk},
+  author={Little, Greg and Chilton, Lydia B. and Miller, Robert and Goldman, Max},
+  year={2009}, 
+  journal={Working Paper, MIT},
+}
+
+@article{chen2009, 
+	author={Daniel L. Chen and John J. Horton}, 
+        title={The Wages of Paycuts: Evidence from a Field Experiment},
+	journal={Working Paper},
+	year = {2009}  
+}
+
+@article{benjamin2009,
+	Author = {Benjamin, Daniel J. and Shapiro, Jesse M.},
+	Date-Added = {2009-03-22 10:04:55 -0400},
+	Date-Modified = {2009-03-22 11:49:24 -0400},
+	Journal = {Review of Economics and Statistics (Forthcoming)},
+	Title = {Thin-slice Forecasts of Gubernatorial Elections},
+	Year = {2009}}
+
+@article{duarte2009tc,
+	Author = {Duarte, Jefferson  and Siegel, Stephan  and Young, Lance A. },
+	Date-Added = {2009-03-21 18:51:41 -0400},
+	Date-Modified = {2009-03-21 18:52:33 -0400},
+	Journal = {SSRN eLibrary},
+	Keywords = {Trust, information asymmetry, consumer credit, peer-to-peer lending},
+	Language = {English},
+	Location = {http://ssrn.com/paper=1343275},
+	Publisher = {SSRN},
+	Title = {Trust and Credit},
+	Type = {Working Paper Series},
+	Year = {2009}
+}
+
+@article{sheng2008get,
+  title={Get Another Label? Improving Data Quality and Data Mining Using Multiple, Noisy Labelers},
+  author={Sheng, Victor S. and Provost, Foster and Ipeirotis, Panagiotis G.},
+  year={2008},
+  journal={Knowledge Discovery and Data Minding 2008 (KDD-2008)},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{kittur2008crowdsourcing,
+  title={Crowdsourcing User Studies with Mechanical Turk},
+  author={Kittur, Aniket and Chi, Ed H. and Suh, Bongwon},
+  year={2008},
+  journal={Proceedings of Computer Human Interaction (CHI-2008)},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{snow2008cheap,
+  title={Cheap and Fast---but is it good? Evaluating Non-expert Annotations for Natural Language Tasks},
+  author={Snow, Rion and O'Connor, Brendan and Jurafsky, Daniel and Ng, Andrew Y.},
+  journal={Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2008)},
+  year={2008}
+}
+
+@conference{law2003tagatune,
+  title={{Tagatune: A game for music and sound annotation}},
+  author={Law, E.L.M. and Von Ahn, L. and Dannenberg, R.B. and Crawford, M.},
+  booktitle={International Conference on Music Information Retrieval (ISMIR’07)},
+  pages={361--364},
+  year={2003},
+  organization={Citeseer}
+}
+
+@conference{von2004labeling,
+  title={{Labeling images with a computer game}},
+  author={Von Ahn, L. and Dabbish, L.},
+  booktitle={Proceedings of the SIGCHI conference on Human factors in computing systems},
+  pages={319--326},
+  year={2004},
+  organization={ACM}
+}
+
+@article{huberman-crowdsourcing,
+  title={Crowdsourcing, attention and productivity},
+  author={Huberman, Bernardo A. and Romero, D.M. and Wu, Fang},
+  journal={Journal of Information Science (in press)},  
+  year={2009}
+}
+
+@article{guryan2009peer,
+  title={{Peer effects in the workplace: evidence from random groupings in professional golf tournaments}},
+  author={Guryan, J. and Kroft, K. and Notowidigdo, M.J.},
+  journal={American Economic Journal: Applied Economics},
+  volume={1},
+  number={4},
+  pages={34--68},
+  year={2009},
+  publisher={American Economic Association Publications}
+}
+
+@article{list2008examining,
+  title={{Examining the role of fairness in high stakes allocation decisions}},
+  author={List, J.A. and Cherry, T.L.},
+  journal={Journal of Economic Behavior \& Organization},
+  volume={65},
+  number={1},
+  pages={1--8},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{roy1952quota,
+  title={Quota restriction and goldbricking in a machine shop},
+  author={Roy, D.},
+  journal={American journal of sociology},
+  volume={57},
+  number={5},
+  pages={427--442},
+  year={1952},
+  publisher={University of Chicago Press}
+}
+
+@article{young2008social,
+  title={{Social norms}},
+  author={Young, H.P.},
+  journal={The New Palgrave Dictionary of Economics},
+  volume={2},
+  year={2008}
+}
+												 
+@article{hortonZeck2010, 
+  type={Working Paper Series},
+  title={{The Online Laboratory: Conducting Experiments in a Real Labor Market}},
+  author={Horton, John J. and Rand, David  and Zeckhauser, Richard  J. },
+  journal={SSRN eLibrary},
+  year={2010},
+  publisher={SSRN},
+  keywords={Experimentation, Online Labor Markets, Internet},
+  location={http://ssrn.com/paper=1591202},
+  language={English}
+}
+	
+
+@article{shapiro1984equilibrium,
+  title={{Equilibrium unemployment as a worker discipline device}},
+  author={Shapiro, C. and Stiglitz, J.E.},
+  journal={The American Economic Review},
+  volume={74},
+  number={3},
+  pages={433--444},
+  year={1984},
+  publisher={The American Economic Association}
+}
+
+@article{akerlof1982labor,
+  title={{Labor contracts as partial gift exchange}},
+  author={Akerlof, G.A.},
+  journal={The Quarterly Journal of Economics},
+  pages={543--569},
+  year={1982},
+  publisher={Harvard University Press}
+}
+
+@article{fehr2000cooperation,
+  title={{Cooperation and punishment in public goods experiments}},
+  author={Fehr, E. and Gachter, S.},
+  journal={American Economic Review},
+  pages={980--994},
+  year={2000},
+  publisher={American Economic Association}
+}
+
+@article{fehr2002altruistic,
+  title={{Altruistic punishment in humans}},
+  author={Fehr, E. and Gachter, S.},
+  journal={Nature},
+  volume={415},
+  number={6868},
+  pages={137--140},
+  year={2002},
+  publisher={Nature Publishing Group}
+}
+
+@incollection{Rotemberg20061371,
+title = "Chapter 21 Altruism, reciprocity and cooperation in the workplace",
+editor = "Serge-Christophe Kolm and Jean Mercier Ythier",
+booktitle = "Applications",
+publisher = "Elsevier",
+year = "2006",
+volume = "2",
+pages = "1371 - 1407",
+series = "Handbook on the Economics of Giving, Reciprocity and Altruism",
+issn = "1574-0714",
+doi = "DOI: 10.1016/S1574-0714(06)02021-5",
+url = "http://www.sciencedirect.com/science/article/B7P5K-4KFT70D-D/2/94ecc156c9a4bea8f71d12ebf1f1e7d2",
+author = "Julio J. Rotemberg",
+keywords = "cooperation",
+keywords = "altruism",
+keywords = "reciprocity",
+keywords = "labor relations",
+keywords = "field studies"
+}
+
+@article{frei2009, 
+title={Paid Crowdsourcing: Current State \& Progress toward Mainstream Business Use}, 
+author={Brent Frei}, 
+journal={Whitepaper Produced by Smartsheet.com}, 
+year={2009}
+}
+
+@article{kremer1993ring,
+  title={{The O-ring theory of economic development}},
+  author={Kremer, M.},
+  journal={The Quarterly Journal of Economics},
+  volume={108},
+  number={3},
+  pages={551--575},
+  year={1993},
+  publisher={MIT Press}
+}
+
+@article{horton2010labor,
+  title={The labor economics of paid crowdsourcing},
+  author={Horton, J. and Chilton, L.},
+  journal={Proceedings of the ACM Conference on Electronic Commerce 2010 (forthcoming)},
+  year={2010}
+}
+
+@article{eckel1996altruism,
+  title={{Altruism in anonymous dictator games}},
+  author={Eckel, C.C. and Grossman, P.J.},
+  journal={Games and Economic Behavior},
+  volume={16},
+  pages={181--191},
+  year={1996},
+  publisher={ACADEMIC PRESS, INC.}
+}
+
+@article{ipeirotis2010, 
+	title={Demographics of Mechanical Turk}, 
+	author={Ipeirotis, P.}, 
+	year={2010},
+	journal={New York University Working Paper}
+}
+
+@article{manski1993,
+     title = {Identification of Endogenous Social Effects: The Reflection Problem},
+     author = {Manski, Charles F.},
+     journal = {The Review of Economic Studies},
+     volume = {60},
+     number = {3},
+     pages = {531--542},
+     url = {http://www.jstor.org/stable/2298123},
+     ISSN = {00346527},
+     year = {1993},
+     publisher = {The Review of Economic Studies Ltd.}  
+}
+
+@article{eriksson2009feedback,
+  title={{Feedback and incentives: experimental evidence}},
+  author={Eriksson, T. and Poulsen, A. and Villeval, M.C.},
+  journal={Labour Economics},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{chan2009, 
+  title={{Compensation and Peer Effects in Competing Sales Teams}},
+  author={Chan, Tat Y. and Li, Jia  and Pierce, Lamar  },
+  journal={SSRN eLibrary},
+  year={2009},
+  publisher={SSRN},
+  keywords={Compensation, Sales Force, Social Influence},
+  location={http://ssrn.com/paper=1367441},
+  language={English}
+}
+											 
+	
+
+@article{sausgruber2009note,
+  title={{A note on peer effects between teams}},
+  author={Sausgruber, R.},
+  journal={Experimental Economics},
+  volume={12},
+  number={2},
+  pages={193--201},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{guryan2009peer,
+  title={{Peer effects in the workplace: evidence from random groupings in professional golf tournaments}},
+  author={Guryan, J. and Kroft, K. and Notowidigdo, M.J.},
+  journal={American Economic Journal: Applied Economics},
+  volume={1},
+  number={4},
+  pages={34--68},
+  year={2009},
+  publisher={American Economic Association Publications}
+}
+
+@article{duflo2008peer,
+  title={{Peer effects and the impact of tracking: Evidence from a randomized evaluation in Kenya}},
+  author={Duflo, E. and Dupas, P. and Kremer, M.},
+  journal={NBER Working Paper},
+  volume={14475},
+  year={2008}
+}
+
+@article{carrell2009does,
+  title={{Does your cohort matter? measuring peer effects in college achievement}},
+  author={Carrell, S.E. and Fullerton, R.L. and West, J.E.},
+  journal={Journal of Labor Economics},
+  volume={27},
+  number={3},
+  year={2009},
+  publisher={UChicago Press}
+}
+
+@article{carrell2010beware,
+  title={{Beware of economists bearing reduced forms? an experiment in how not to improve student outcomes}},
+  author={Carrell, S.E. and Sacerdote, NBI and West, JE},
+  year={2010}
+}
+
+@article{lyle2007estimating,
+  title={{Estimating and interpreting peer and role model effects from randomly assigned social groups at West Point}},
+  author={Lyle, D.S.},
+  journal={The Review of Economics and Statistics},
+  volume={89},
+  number={2},
+  pages={289--299},
+  year={2007},
+  publisher={MIT Press}
+}
+
+@article{christakis2007spread,
+  title={{The spread of obesity in a large social network over 32 years}},
+  author={Christakis, N.A. and Fowler, J.H.},
+  journal={New England Journal of Medicine},
+  volume={357},
+  number={4},
+  pages={370},
+  year={2007},
+  publisher={Mass Med Soc}
+}
+        
+@article{sacerdote2001peer,
+  title={{Peer Effects with Random Assignment: Results for Dartmouth Roommates*}},
+  author={Sacerdote, B.},
+  journal={Quarterly Journal of Economics},
+  volume={116},
+  number={2},
+  pages={681--704},
+  year={2001},
+  publisher={MIT Press}
+}
+
+@article{fehr1999theory,
+  title={A Theory of Fairness, Competition, and Cooperation},
+  author={Fehr, E. and Schmidt, K.M.},
+  journal={Quarterly journal of Economics},
+  volume={114},
+  number={3},
+  pages={817--868},
+  year={1999},
+  publisher={MIT Press}
+}
+
+@article{bandiera2010social,
+  title={{Social incentives in the workplace}},
+  author={Bandiera, O. and Barankay, I. and Rasul, I.},
+  journal={Review of Economic Studies},
+  volume={77},
+  number={2},
+  pages={417--458},
+  year={2010}
+}
+
+@article{von2006games,
+  title={Games With a Purpose},
+  author={Von Ahn, Luis},
+  journal={IEEE Computer Magazine},
+  volume={39},
+  number={6},
+  pages={96--98},
+  year={2006}
+}
+
+@article{fehr2009behavioral,
+  title={A behavioral account of the labor market: the role of fairness concerns},
+  author={Fehr, E. and Goette, L. and Zehnder, C.},
+  year={2009},
+  publisher={Annual Reviews}
+}
+
+@article{falk2006clean,
+  title={{Clean evidence on peer effects}},
+  author={Falk, A. and Ichino, A.},
+  journal={Journal of Labor Economics},
+  volume={24},
+  number={1},
+  year={2006},
+  publisher={UChicago Press}
+}
+
+@article{wickham2008ggplot2,
+  title={ggplot2: An Implementation of the Grammar of Graphics},
+  author={Wickham, Hadley},
+  journal={R package version 0.7, URL: http://CRAN.R-project.org/package=ggplot2},
+  year={2008}
+}
+
+@article{holmstrom1982moral,
+  title={{Moral hazard in teams}},
+  author={Holmstrom, B.},
+  journal={The Bell Journal of Economics},
+  volume={13},
+  number={2},
+  pages={324--340},
+  year={1982},
+  publisher={American Telephone and Telegraph Company}
+}
+
+@article{chandler2010, 
+	title={Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets}, 
+	author={Chandler, D. and Kapelner, A.}, 
+	journal={University of Chicago mimeo}, 
+	year={2010}
+}
+
+@inproceedings{mason2009fip,
+ author = {Mason, Winter and Watts, Duncan J.},
+ title = {Financial incentives and the `performance of crowds'},
+ booktitle = {Proc. ACM SIGKDD Workshop on Human Computation (HCOMP)},
+ year = {2009},
+ isbn = {978-1-60558-672-4},
+ location = {Paris, France},
+ doi = {http://doi.acm.org/10.1145/1600150.1600175},
+}
+
+@article{harrison2004field,
+  title={{Field experiments}},
+  author={Harrison, G.W. and List, J.A.},
+  journal={Journal of Economic Literature},
+  volume={42},
+  number={4},
+  pages={1009--1055},
+  year={2004},
+  publisher={American Economic Association Publications}
+}
+
+@article{gneezy2006putting,
+  title={{Putting behavioral economics to work: Testing for gift exchange in labor markets using field experiments}},
+  author={Gneezy, U. and List, J.A.},
+  journal={Econometrica},
+  pages={1365--1384},
+  year={2006},
+  publisher={Econometric Society}
+}
+
+@article{Hopkins-King2010,
+  title={A Method of automated nonparametric content analysis for Social Science},
+  author={Hopkins, Daniel and King, Gary},
+  journal={American Journal of Political Science},
+  volume={54},
+  number={1},
+  pages={229--247},
+  year={2010}
+}
+
+@book{krippendorff_content_2003,
+	edition = {2nd},
+	title = {Content Analysis: An Introduction to Its Methodology},
+	isbn = {0761915451},
+	shorttitle = {Content Analysis},
+	publisher = {Sage Publications, Inc},
+	author = {Klaus H. Krippendorff},
+	year = {2003}
+},
+
+@article{cohen_coefficient_1960,
+	title = {A Coefficient of Agreement for Nominal Scales},
+	volume = {20},
+	issn = {0013-1644},
+	number = {1},
+	journal = {Educational \& Psychological Measurement},
+	author = {Jacob Cohen},
+	year = {1960},
+	pages = {37--46}
+},
+
+@article{shaffer1995,
+	title = {Multiple Hypothesis Testing},
+	volume = {46},
+	issn = {0066-4308},
+	journal = {{Annual Review of Psychology}},
+	author = {Juliet Popper Shaffer},
+	year = {1995},
+	pages = {561--584}
+},
+
+@book{hsu1996,
+	title = {Multiple comparisons: Theory and Methods},
+	isbn = {9780412982811},
+	shorttitle = {Multiple comparisons},
+	publisher = {{CRC} Press},
+	author = {Jason C. Hsu},
+	year = {1996}
+},
+
+@article{rosenthalrubin1984,
+	title = {Multiple Contrasts and Ordered Bonferroni Procedures},
+	volume = {76},
+	issn = {0022-0663},
+	number = {6},
+	journal = {Journal of Educational Psychology},
+	author = {Robert Rosenthal and Donald B. Rubin},
+	year = {1984},
+	pages = {1028--1034}
+},
+
+@article{freedman2008logistic,
+	title = {Randomization Does Not Justify Logistic Regression},
+	volume = {23},
+	doi = {10.1214/08-STS262},
+	number = {2},
+	journal = {Statistical Science},
+	author = {David A. Freedman},
+	year = {2008},
+	pages = {237--249}
+},
+
+@article{freedman2008multtreat,
+	title = {On regression adjustments in experiments with several treatments},
+	volume = {2},
+	doi = {10.1214/07-AOAS143},
+	abstract = {Regression adjustments are often made to experimental data. Since randomization does not justify the models, bias is likely; nor are the usual variance calculations to be trusted. Here, we evaluate regression adjustments using Neyman’s nonparametric model. Previous results are generalized, and more intuitive proofs are given. A bias term is isolated, and conditions are given for unbiased estimation in finite samples.},
+	number = {1},
+	journal = {The Annals of Applied Statistics},
+	author = {David A. Freedman},
+	year = {2008},
+	pages = {176--196}
+},
+
+@article{benklershaw2010,
+	title = {A Tale of Two Blogospheres: Discursive Practices on the Left and Right},
+	shorttitle = {A Tale of Two Blogospheres},
+	url = {http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1611312},
+	journal = {{Berkman Center for Internet and Society Working Paper Series}},
+	author = {Yochai Benkler and Aaron Shaw},
+	year = {2010},
+	url = {http://cyber.law.harvard.edu/publications/2010/Tale_Two_Blogospheres_Discursive_Practices_Left_Right},
+	keywords = {blogs, Internet, politics, social media, society}
+},
+
+@article{world_vals_survey2009,
+	title = {World Values Survey 1981-2008 Official Aggregate v.20090901},
+	url = {http://www.wvsevsdb.com/wvs/WVSData.jsp},
+	journal = {World Values Survey Association (www.worldvaluessurvey.org), Aggregate File Producer: {ASEP/JDS,} Madrid},
+	year = {2009}
+},
+
+@article{prelec_bts_2004,
+	title = {A Bayesian Truth Serum for Subjective Data},
+	volume = {306},
+	doi = {10.1126/science.1102081},
+	number = {5695},
+	journal = {Science},
+	author = {Drazen Prelec},
+	month = oct,
+	year = {2004},
+	pages = {462--466}
+},
+
+@article{hargittai2009update,
+	title = {An Update on Survey Measures of {Web-Oriented} Digital Literacy},
+	volume = {27},
+	number = {1},
+	journal = {Social Science {Computer} Review},
+	author = {Eszter Hargittai},
+	year = {2009},
+	pages = {130--137}
+}
+

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: turk_raters.aux
+The style file: abbrv.bst
+Database file #1: turk_raters.bib.bib
+Warning--to sort, need author or key in world_vals_survey2009
+Warning--empty author in world_vals_survey2009
+You've used 27 entries,
+            2118 wiz_defined-function locations,
+            636 strings with 7703 characters,
+and the built_in function-call counts, 7387 in all, are:
+= -- 727
+> -- 324
+< -- 1
++ -- 136
+- -- 102
+* -- 455
+:= -- 1295
+add.period$ -- 81
+call.type$ -- 27
+change.case$ -- 131
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 299
+empty$ -- 585
+format.name$ -- 102
+if$ -- 1505
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 29
+newline$ -- 137
+num.names$ -- 52
+pop$ -- 131
+preamble$ -- 1
+purify$ -- 105
+quote$ -- 0
+skip$ -- 206
+stack$ -- 0
+substring$ -- 374
+swap$ -- 38
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 104
+warning$ -- 2
+while$ -- 71
+width$ -- 29
+write$ -- 281
+(There were 2 warnings)
