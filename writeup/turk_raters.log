@@ -1,17 +1,10 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.11)  5 AUG 2010 10:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.6)  1 DEC 2010 14:24
 entering extended mode
+ restricted \write18 enabled.
  %&-line parsing enabled.
-**turk_raters
-(./turk_raters.tex
-LaTeX2e <2005/12/01>
-Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, arabic, farsi, croatian, ukrainian, russian, bulgarian, czech, slov
-ak, danish, dutch, finnish, basque, french, german, ngerman, ibycus, greek, mon
-ogreek, ancientgreek, hungarian, italian, latin, mongolian, norsk, icelandic, i
-nterlingua, turkish, coptic, romanian, welsh, serbian, slovenian, estonian, esp
-eranto, uppersorbian, indonesian, polish, portuguese, spanish, catalan, galicia
-n, swedish, ukenglish, pinyin, loaded.
-(./chi2009.cls (/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+**\input turk_raters.tex
+(./turk_raters.tex (./chi2009.cls
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
 (/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
@@ -22,18 +15,18 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
-Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
 (/etc/texmf/tex/latex/config/graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 90.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 \Gread@gobject=\count79
 ))
 \Gin@req@height=\dimen102
@@ -43,15 +36,15 @@ File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
 \epsfysize=\dimen105
 )
 (/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2002/01/22 v2.2d
+Package: amssymb 2009/06/22 v3.00
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2001/10/25 v2.2f
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
 (/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
@@ -173,107 +166,12 @@ Using 'Abbrev' bibliography style
 ) (/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texmf-texlive/tex/latex/subfig/subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-
-Package subfig Warning: Your document class has a bad definition
- of \endfigure, most likely
- \let\endfigure=\end@float
- which has now been changed to
- \def\endfigure{\end@float}
- because otherwise subsequent changes to \end@float
- (like done by several packages changing float behaviour)
- can't take effect on \endfigure.
- Please complain to your document class author.
-
-
-Package subfig Warning: Your document class has a bad definition
- of \endtable, most likely
- \let\endtable=\end@float
- which has now been changed to
- \def\endtable{\end@float}
- because otherwise subsequent changes to \end@float
- (like done by several packages changing float behaviour)
- can't take effect on \endtable.
- Please complain to your document class author.
-
-(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
-Package: caption 2007/01/07 v3.0k Customising captions (AR)
-
-(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
-Package: caption3 2007/01/07 v3.0k caption3 kernel (AR)
-\captionmargin=\dimen123
-\captionmarginx=\dimen124
-\captionwidth=\dimen125
-\captionindent=\dimen126
-\captionparindent=\dimen127
-\captionhangindent=\dimen128
-\abovecaptionskip=\skip44
-\belowcaptionskip=\skip45
-))
-\c@KVtest=\count109
-\sf@farskip=\skip46
-\sf@captopadj=\dimen129
-\sf@capskip=\skip47
-\sf@nearskip=\skip48
-\c@subfigure=\count110
-\c@subfigure@save=\count111
-\c@lofdepth=\count112
-\c@subtable=\count113
-\c@subtable@save=\count114
-\c@lotdepth=\count115
-\sf@top=\skip49
-\sf@bottom=\skip50
-)
 (/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/share/texmf-texlive/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen130
-\lightrulewidth=\dimen131
-\cmidrulewidth=\dimen132
-\belowrulesep=\dimen133
-\belowbottomsep=\dimen134
-\aboverulesep=\dimen135
-\abovetopsep=\dimen136
-\cmidrulesep=\dimen137
-\cmidrulekern=\dimen138
-\defaultaddspace=\dimen139
-\@cmidla=\count116
-\@cmidlb=\count117
-\@aboverulesep=\dimen140
-\@belowrulesep=\dimen141
-\@thisruleclass=\count118
-\@lastruleclass=\count119
-\@thisrulewidth=\dimen142
-)
-(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
-Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip51
-\LTright=\skip52
-\LTpre=\skip53
-\LTpost=\skip54
-\LTchunksize=\count120
-\LTcapwidth=\dimen143
-\LT@head=\box30
-\LT@firsthead=\box31
-\LT@foot=\box32
-\LT@lastfoot=\box33
-\LT@cols=\count121
-\LT@rows=\count122
-\c@LT@tables=\count123
-\c@LT@chunks=\count124
-\LT@p@ftn=\toks36
-)
-(/usr/share/texmf-texlive/tex/latex/ltxmisc/threeparttable.sty
-Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box34
-)
 (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip11
-Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -284,62 +182,181 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 Package color Info: Driver file: pdftex.def on input line 130.
 )
 (/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
-Package: epstopdf 2006/08/26 v1.3 Conversion with epstopdf on the fly (HO)
+Package: epstopdf 2009/10/17 v2.4 Conversion with epstopdf on the fly (HO)
 
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2009/10/17 v2.4 Base part for package epstopdf
 
-Package epstopdf Warning: Shell escape feature is not enabled.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
 
-) (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
-\@linkdim=\dimen144
-\Hy@linkcounter=\count125
-\Hy@pagecounter=\count126
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 433.
+
+(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2009/10/26 v1.1 Configuration of epstopdf for TeX Live
+)))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen123
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
 )
+
+Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
 (/etc/texmf/tex/latex/config/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
-HO)
-)
-Package hyperref Info: Hyper figures OFF on input line 2288.
-Package hyperref Info: Link nesting OFF on input line 2293.
-Package hyperref Info: Hyper index ON on input line 2296.
-Package hyperref Info: Plain pages OFF on input line 2303.
-Package hyperref Info: Backreferencing OFF on input line 2308.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
 
 Implicit mode ON; LaTeX internals redefined
-Package hyperref Info: Bookmarks ON on input line 2444.
-LaTeX Info: Redefining \url on input line 2599.
-\Fld@menulength=\count127
-\Field@Width=\dimen145
-\Fld@charsize=\dimen146
-\Choice@toks=\toks37
-\Field@toks=\toks38
-Package hyperref Info: Hyper figures OFF on input line 3102.
-Package hyperref Info: Link nesting OFF on input line 3107.
-Package hyperref Info: Hyper index ON on input line 3110.
-Package hyperref Info: backreferencing OFF on input line 3117.
-Package hyperref Info: Link coloring OFF on input line 3122.
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count111
+\Field@Width=\dimen124
+\Fld@charsize=\dimen125
+\Field@toks=\toks36
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
 
 Package hyperref Warning: Option `pdfpagelabels' is turned off
 (hyperref)                because \thepage is undefined.
 
-\c@Item=\count128
-\c@Hfootnote=\count129
+\c@Item=\count112
+\c@Hfootnote=\count113
 )
 *hyperref using driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
-\Fld@listcount=\count130
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count114
 )
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 22.
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
-Package hyperref Info: Option `breaklinks' set `true' on input line 22.
- (./turk_raters.aux)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 20.
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+Package hyperref Info: Option `breaklinks' set `true' on input line 20.
+
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box30
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip44
+\LTright=\skip45
+\LTpre=\skip46
+\LTpost=\skip47
+\LTchunksize=\count115
+\LTcapwidth=\dimen126
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count116
+\LT@rows=\count117
+\c@LT@tables=\count118
+\c@LT@chunks=\count119
+\LT@p@ftn=\toks37
+)
+(/usr/share/texmf-texlive/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen127
+\lightrulewidth=\dimen128
+\cmidrulewidth=\dimen129
+\belowrulesep=\dimen130
+\belowbottomsep=\dimen131
+\aboverulesep=\dimen132
+\abovetopsep=\dimen133
+\cmidrulesep=\dimen134
+\cmidrulekern=\dimen135
+\defaultaddspace=\dimen136
+\@cmidla=\count120
+\@cmidlb=\count121
+\@aboverulesep=\dimen137
+\@belowrulesep=\dimen138
+\@thisruleclass=\count122
+\@lastruleclass=\count123
+\@thisrulewidth=\dimen139
+) (./turk_raters.aux)
 \openout1 = `turk_raters.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -361,55 +378,27 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/share/texmf/tex/context/base/supp-pdf.tex
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count131
-\scratchdimen=\dimen147
+\scratchcounter=\count124
+\scratchdimen=\dimen140
 \scratchbox=\box35
-\nofMPsegments=\count132
-\nofMParguments=\count133
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count134
-\MPscratchDim=\dimen148
-\MPnumerator=\count135
-\everyMPtoPDFconversion=\toks40
-) (/usr/share/texmf-texlive/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
-
-(/usr/share/texmf-texlive/tex/latex/everysel/everysel.sty
-Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
-LaTeX Info: Redefining \selectfont on input line 125.
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen141
+\MPnumerator=\count128
+\everyMPtoPDFconversion=\toks39
 )
-\CenteringLeftskip=\skip55
-\RaggedLeftLeftskip=\skip56
-\RaggedRightLeftskip=\skip57
-\CenteringRightskip=\skip58
-\RaggedLeftRightskip=\skip59
-\RaggedRightRightskip=\skip60
-\CenteringParfillskip=\skip61
-\RaggedLeftParfillskip=\skip62
-\RaggedRightParfillskip=\skip63
-\JustifyingParfillskip=\skip64
-\CenteringParindent=\skip65
-\RaggedLeftParindent=\skip66
-\RaggedRightParindent=\skip67
-\JustifyingParindent=\skip68
-)
-Package caption Info: hyperref package v6.74m (or newer) detected on input line
- 29.
-Package caption Info: longtable package v3.15 (or newer) detected on input line
- 29.
-Package caption Info: subref 1.2 or 1.3 detected on input line 29.
-LaTeX Info: Redefining \subref on input line 29.
 Package hyperref Info: Link coloring ON on input line 29.
-
-(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
-Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
-Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count136
+\c@section@level=\count129
 )
 LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
@@ -417,51 +406,52 @@ LaTeX Info: Redefining \pageref on input line 29.
 \@outlinefile=\write3
 \openout3 = `turk_raters.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 77.
+\AtBeginShipoutBox=\box36
+LaTeX Font Info:    Try loading font information for U+msa on input line 75.
  (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 77.
+LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 77.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 75.
 
 (/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (3.16768pt too wide) in paragraph at lines 79--94
+Overfull \hbox (3.16768pt too wide) in paragraph at lines 77--92
 \OT1/ptm/m/n/10 bined with fi-nan-cial incentives---produced more ac-cu-rate ta
 sk
  []
 
 
-Overfull \hbox (10.81783pt too wide) in paragraph at lines 100--101
+Overfull \hbox (10.81783pt too wide) in paragraph at lines 98--99
 \OT1/ptm/m/n/10 Economics, So-ci-ol-ogy, Ex-per-i-men-ta-tion, Hu-man Fac-tors,
  Mea-
  []
 
 
-Overfull \hbox (17.958pt too wide) in paragraph at lines 101--103
+Overfull \hbox (17.958pt too wide) in paragraph at lines 99--101
 \OT1/ptm/m/n/10 Search, Ama-zon Me-chan-i-cal Turk, Hu-man Com-pu-ta-tion, Crow
 d-
  []
 
 
-Overfull \hbox (7.75702pt too wide) in paragraph at lines 105--122
+Overfull \hbox (7.75702pt too wide) in paragraph at lines 103--120
 \OT1/ptm/m/n/10 cial sci-ence re-search is find-ing data with use-ful, well-mea
 sured
  []
 
 
-Overfull \hbox (6.618pt too wide) in paragraph at lines 123--124
+Overfull \hbox (6.618pt too wide) in paragraph at lines 121--122
 []\OT1/ptm/m/n/10 An emerg-ing phenomena---the on-line la-bor market---can scal
 e
  []
 
 
-Overfull \hbox (1.19806pt too wide) in paragraph at lines 128--142
+Overfull \hbox (1.19806pt too wide) in paragraph at lines 126--140
 \OT1/ptm/m/n/10 cus on skilled work like com-puter pro-gram-ming (e.g., oDesk,
  []
 
@@ -471,211 +461,254 @@ Overfull \hbox (1.19806pt too wide) in paragraph at lines 128--142
 Non-PDF special ignored!
 
 ]
-Overfull \hbox (7.4178pt too wide) in paragraph at lines 195--211
+Overfull \hbox (7.4178pt too wide) in paragraph at lines 193--209
 \OT1/ptm/m/n/10 have demon-strated how machine-learning tools and tech-niques
  []
 
-[2]
-Overfull \hbox (1.30658pt too wide) in paragraph at lines 325--332
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.254 
+       [2]
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+[][][][][]\OT1/ptm/m/n/9 http://sites.google.com/site/johnjosephhorton/research
+/data-and-
+ []
+
+
+Overfull \hbox (1.30658pt too wide) in paragraph at lines 320--327
 \OT1/ptm/m/n/10 skills; em-ploy-ment sta-tus; house-hold size; and in-ter-net s
 kills.
  []
 
 
-Overfull \hbox (1.61774pt too wide) in paragraph at lines 352--377
+Overfull \hbox (1.61774pt too wide) in paragraph at lines 347--372
 \OT1/ptm/m/n/10 unique MTurk user id was si-mul-ta-ne-ously as-signed ran-domly
 
  []
 
-[3]
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\\' on input line 394.
-
-
-Overfull \hbox (4.55794pt too wide) in paragraph at lines 396--416
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.388 
+       [3]
+Overfull \hbox (4.55794pt too wide) in paragraph at lines 391--411
 \OT1/ptm/m/n/10 four-teen dif-fer-ent in-cen-tive frame-works and com-pared wor
 ker
  []
 
 
-Overfull \hbox (1.08817pt too wide) in paragraph at lines 396--416
+Overfull \hbox (1.08817pt too wide) in paragraph at lines 391--411
 \OT1/ptm/m/n/10 that in-volved no fram-ing in-cen-tives be-yond the base-line c
 om-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 428.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 423.
 
-Overfull \hbox (4.59746pt too wide) in paragraph at lines 428--429
+Overfull \hbox (4.59746pt too wide) in paragraph at lines 423--424
 []\OT1/ptm/m/n/10 Workers were pre-sented with all pre-treatment, post-
  []
 
 
-Overfull \hbox (5.15692pt too wide) in paragraph at lines 437--440
+Overfull \hbox (5.15692pt too wide) in paragraph at lines 432--435
 []\OT1/ptm/m/n/10 ``After this HIT has been
  []
 
 
-Overfull \hbox (3.6981pt too wide) in paragraph at lines 443--451
+Overfull \hbox (3.6981pt too wide) in paragraph at lines 438--446
 \OT1/ptm/m/n/10 your team-mates have the op-por-tu-nity to earn bonuses based
  []
 
 
-Overfull \hbox (2.07747pt too wide) in paragraph at lines 451--454
+Overfull \hbox (2.07747pt too wide) in paragraph at lines 446--449
 []\OT1/ptm/m/n/10 ``Before you com-plete the ques-tions,
  []
 
 
-Overfull \hbox (5.39743pt too wide) in paragraph at lines 454--462
+Overfull \hbox (5.39743pt too wide) in paragraph at lines 449--457
 \OT1/ptm/m/n/10 con-fir-ma-tion code and pay-ment for this HIT will not change
  []
 
 
-Overfull \hbox (11.11728pt too wide) in paragraph at lines 462--466
+Overfull \hbox (11.11728pt too wide) in paragraph at lines 457--461
 []\OT1/ptm/m/n/10 ``Before an-swer-ing the
  []
 
 
-Overfull \hbox (5.36722pt too wide) in paragraph at lines 466--472
+Overfull \hbox (5.36722pt too wide) in paragraph at lines 461--467
 []\OT1/ptm/m/n/10 ``After this HIT has been com-
  []
 
 
-Overfull \hbox (11.8472pt too wide) in paragraph at lines 472--478
+Overfull \hbox (11.8472pt too wide) in paragraph at lines 467--473
 []\OT1/ptm/m/n/10 ``After this HIT has been com-
  []
 
-[4]
-Overfull \hbox (6.637pt too wide) in paragraph at lines 483--490
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.473 \item[Punishment Accuracy (financial)]
+                                             ``After this HIT has been [4]
+Overfull \hbox (6.637pt too wide) in paragraph at lines 478--485
 []\OT1/ptm/m/n/10 ``After this HIT has been
  []
 
 
-Overfull \hbox (10.14725pt too wide) in paragraph at lines 490--494
+Overfull \hbox (10.14725pt too wide) in paragraph at lines 485--489
 []\OT1/ptm/m/n/10 ``After this HIT has been
  []
 
 
-Overfull \hbox (3.45764pt too wide) in paragraph at lines 494--512
+Overfull \hbox (3.45764pt too wide) in paragraph at lines 489--507
 []\OT1/ptm/m/n/10 ``For the fol-low-
  []
 
 
-Overfull \hbox (1.0177pt too wide) in paragraph at lines 512--516
+Overfull \hbox (1.0177pt too wide) in paragraph at lines 507--511
 []\OT1/ptm/m/n/10 ``For the fol-low-ing five ques-
  []
 
 
-Overfull \hbox (2.02858pt too wide) in paragraph at lines 519--529
+Overfull \hbox (2.02858pt too wide) in paragraph at lines 514--524
 \OT1/ptm/m/n/10 The ex-per-i-ment ran from June 2 through Septem-ber 23, 2009.
  []
 
 
-Overfull \hbox (2.74768pt too wide) in paragraph at lines 569--580
+Overfull \hbox (2.74768pt too wide) in paragraph at lines 564--575
 \OT1/ptm/m/n/10 per-for-mance var-ied sig-nif-i-cantly from chance (ran-dom gue
 ss-
  []
 
 
-Overfull \hbox (8.45763pt too wide) in paragraph at lines 569--580
+Overfull \hbox (8.45763pt too wide) in paragraph at lines 564--575
 \OT1/ptm/m/n/10 bet-ter than chance, whereas the ques-tion about rev-enue strea
 ms
  []
 
 
-Overfull \hbox (4.42728pt too wide) in paragraph at lines 569--580
+Overfull \hbox (4.42728pt too wide) in paragraph at lines 564--575
 \OT1/ptm/m/n/10 elicited per-for-mance that was sig-nif-i-cantly worse than cha
 nce. 
  []
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 579.
 
-Overfull \hbox (37.85733pt too wide) in paragraph at lines 587--606
+Overfull \hbox (37.85733pt too wide) in paragraph at lines 582--601
  [] 
  []
 
-<../images/per_q.pdf, id=199, 578.16pt x 758.835pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.617 
+       [5] <../images/per_q.pdf, id=218, 578.16pt x 758.835pt>
 File: ../images/per_q.pdf Graphic file (type pdf)
- <use ../images/per_q.pdf>
-[5] <../images/AggPerf.pdf, id=223, 578.16pt x 578.16pt>
+
+<use ../images/per_q.pdf> <../images/AggPerf.pdf, id=221, 578.16pt x 578.16pt>
 File: ../images/AggPerf.pdf Graphic file (type pdf)
 
 <use ../images/AggPerf.pdf>
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 672.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 667.
 
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 672.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 667.
 
-Overfull \hbox (14.44827pt too wide) in paragraph at lines 670--699
+Overfull \hbox (14.44827pt too wide) in paragraph at lines 665--694
  [] 
  []
 
 
-Overfull \hbox (1.13788pt too wide) in paragraph at lines 720--743
+Overfull \hbox (1.13788pt too wide) in paragraph at lines 715--738
 \OT1/ptm/m/n/10 To eval-u-ate whether any sig-nif-i-cant de-mo-graphic fac-tors
  may
  []
 
 
-Overfull \hbox (4.99742pt too wide) in paragraph at lines 720--743
+Overfull \hbox (4.99742pt too wide) in paragraph at lines 715--738
 \OT1/ptm/m/n/10 (OLS) model on the out-come vari-able (ag-gre-gate per-for-manc
 e
  []
 
-
-Underfull \vbox (badness 6016) has occurred while \output is active []
-
- [6 <../images/per_q.pdf> <../images/AggPerf.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 778--781
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.738 
+       [6 <../images/per_q.pdf> <../images/AggPerf.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 773--776
   
  []
 
 
-Overfull \hbox (1.8772pt too wide) in paragraph at lines 804--808
+Overfull \hbox (1.8772pt too wide) in paragraph at lines 799--803
 \OT1/ptm/m/n/10 other fi-nan-cial in-cen-tive schemes failed hardly im-plies a 
 ring-
  []
 
 
-Overfull \hbox (6.31793pt too wide) in paragraph at lines 809--820
+Overfull \hbox (6.31793pt too wide) in paragraph at lines 804--815
 \OT1/ptm/m/n/10 asked work-ers to prospec-tively con-sider how their peers woul
 d
  []
 
 
-Overfull \hbox (8.9869pt too wide) in paragraph at lines 821--827
+Overfull \hbox (8.9869pt too wide) in paragraph at lines 816--822
 \OT1/ptm/m/n/10 ma-tion seek-ing task per-for-mance). This im-plies that cultur
 ally-
  []
 
-[7] (./turk_raters.bbl) [8] (./turk_raters.aux) ) 
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.840 
+       [7] (./turk_raters.bblpdfTeX warning (ext4): destination with the same i
+dentifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 
+       [8])pdfTeX warning (ext4): destination with the same identifier (name{pa
+ge.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.864 \end{document}
+                     [9
+
+] (./turk_raters.aux) ) 
 Here is how much of TeX's memory you used:
- 4903 strings out of 94074
- 67713 string characters out of 1165153
- 130932 words of memory out of 1500000
- 7997 multiletter control sequences out of 10000+50000
- 33174 words of font info for 77 fonts, out of 1200000 for 2000
- 645 hyphenation exceptions out of 8191
- 43i,15n,42p,771b,417s stack positions out of 5000i,500n,6000p,200000b,5000s
-{/usr/share/texmf-texlive/font
-s/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10
-.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/tex
-mf-texlive/fonts/type1/bluesky/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/typ
-e1/bluesky/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr6.p
-fb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf-
-texlive/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy7.pfb
-></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf-t
-exlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type
-1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.p
-fb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on turk_raters.pdf (8 pages, 165166 bytes).
+ 5738 strings out of 493848
+ 79846 string characters out of 1152823
+ 167496 words of memory out of 3000000
+ 8793 multiletter control sequences out of 15000+50000
+ 35860 words of font info for 80 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 41i,15n,38p,782b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/urw/he
+lvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></
+usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texl
+ive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on turk_raters.pdf (9 pages, 223011 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 131072)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 

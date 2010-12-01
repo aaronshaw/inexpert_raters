@@ -1,0 +1,239 @@
+CSCW Paper Final Revisions 
+
+Dec. 1, 2010
+
+
+* List version of stuff we can do/discuss:
+
+** Email Daniel -- esp. to get address, acknowledgements, etc.
+
+** Layout:
+  Fix hbox issues
+  Adjust tables and graphs to fit
+  Check our final version against this:
+    http://www.sheridanprinting.com/typedept/cscw.htm
+
+
+** Key reviewer suggestions:
+  
+  Consider grouping treatments -- formally, this was part of our
+  hypotheses, so I'd be interested to do it. Problem is that many are
+  neither financial only or social only, but hybrids. Maybe three groups?
+
+  Note that conditions are significantly different from control, but
+  not necessarily from each other. [we might discuss how to respond to
+  this -- intuitively, the idea that we need to run pairwise comparisons
+  across all treatments is fine, but doesn't seem consistent with the
+  way we actually ran the analysis (and corrected for the comparisons,
+  etc.)] 
+
+  Clarify our interpretation of BTS -- more emphasis on our thought that
+  prospective guessing about other workers' answers seems to be the
+  best bet for a mechanism. Add/expand footnote explaining Prelec's
+  original idea.
+
+  Clarify or re-word ``intensive & extensive margins'' thing on p.2
+
+  State that the website is Kiva.org on p.3 when introducing the tasks,
+  and clarify what “revenue creation” tasks are. (R1)
+
+  Footnote 13 about ggplot is unnecessary. But fix the leading on the
+  Y-axis labels in Figure 1 toward the bottom (e.g., “Cheap norm.
+  incentive”).
+
+  Review CHI 2010 paper on MTurk participants who game the system --
+  R1 says it may have additional useful information:
+  J. Downs, M. Holbrook, S. Sheng, and L. Cranor. Are Your Participants
+  Gaming the System? Screening Mechanical Turk Workers. CHI 2010.
+  http://lorrie.cranor.org/pubs/note1552-downs.pdf
+
+  Incorporate wording of five questions (R2)
+ 
+  Find a way to incorporate the wording of the treatments (R2). Maybe
+  part of the online annex?
+
+  Typos and other suggestions for R2:
+    emerging phenomena => phenomenon
+    move footnote 1 into the body text, it's important
+    define "Turkers" when it's first used
+    for each on => for each one
+    Table 3 has a p-value of .074, which contradicts the footnote that says
+      only p-values <= .05 are reported
+
+  Consider proposal from R3 to re-run regression with interactions and
+  something like blocking dummies.
+
+  Consider R3's comment re: potential interaction effects between
+  Indian & not-Indian and various treatments. Formally, this was not
+  part of our hypothesis in the experiment design and so I'm hesitant
+  to claim we actually have a good reason to test it. At the same
+  time, it'd be obviously interesting to look at the results along
+  these lines...thoughts?
+
+  Add a couple of sentences to the conclusion addressing R3's final
+  question re: is it better to use research assistants after all?
+  Basic response: Our results suggest that Turkers appear to have a
+  wide range of abilities and that some task framings may elicit
+  higher quality performance than others. It is worth emphasizing that
+  we do not utilize any of the quality-control techniques discussed
+  elsewhere for filtering data generated in Mturk and similar
+  environments\cite{Panos; Snow et al.; other papers...}. As a result,
+  we do not use our findings as a basis for any general claims about
+  the utility (or lack thereof) of Mturk for crowdsourced content
+  analysis as a reliable method of data collection.
+
+
+** Dana's suggestion
+
+  Consider Dana's suggestion that we quantify the value of our
+  findings in terms of concrete task performance. Your thoughts on
+  this? I generally think it's fine, but would want to underscore that
+  it is only valid insofar as this particular type of task is
+  concerned.
+
+
+
+
+* Actual comments and suggestions:
+
+** Comments from Reviewers:
+
+*** ``meta'' review (R4):
+
+**** Key section
+
+  All reviewers found the framing, experimental methods and results
+  compelling. I agree with R1 in applauding the authors for using a
+  conservative approach (i.e., multiple comparison corrections and
+  intention-to-treat), although this may have resulted in the small number
+  of conditions found to be significant and the authors should be
+  especially careful to note that they are not significantly different from
+  the other conditions (unless explicitly testing and reporting this) (R3)
+  as a result.
+
+  The reviewers note a number of useful ways in which the paper could be
+  improved, which the authors should address in their revision. Some of the
+  larger ones that the authors should consider if possible include coding
+  the treatments as groups of factors (e.g., financial, norm, competition,
+  R3); taking the Indian vs. non-Indian comparison a bit further
+  (especially since it has been noted in previous work already), such as
+  looking at interactions with conditions (R3); and providing a better
+  intuition for the utility of Bayesian Truth Serum. However, none of these
+  should preclude publication of this paper at CSCW.
+
+
+**** Takeaways:
+
+ Note that conditions are significantly different from control, but not necessarily from each other... test this?
+
+ Grouping treatments -- see R3
+
+ Taking Indian vs. Non-Indian comparison a bit further
+
+ ``providing a better intuition'' for utility of BTS (??)
+
+
+*** Comments and takeaways from other reviewers
+
+**** R1
+
+  The areas for improvement are minor—primarily clarifications:
+  1.   For non-economists, what are “intensive and extensive” margins (p.2)?
+
+  2.   State that the website is Kiva.org on p.3 when introducing the tasks,
+  and clarify what “revenue creation” tasks are.
+
+  3.   Footnote 13 about ggplot is unnecessary.  But fix the leading on the
+  Y-axis labels in Figure 1 toward the bottom (e.g., “Cheap norm.
+  incentive”).
+
+  4.   The CHI 2010 paper on MTurk participants who game the system may have
+  additional useful information:
+
+  J. Downs, M. Holbrook, S. Sheng, and L. Cranor. Are Your Participants
+  Gaming the System? Screening Mechanical Turk Workers. CHI 2010.
+  http://lorrie.cranor.org/pubs/note1552-downs.pdf
+
+
+**** R2
+
+  I would have given it a 5 if it had been able to
+  postulate a mechanism for why BTS had any effect at all.  As it is, the
+  authors note the BTS effect with very little comment, which suggests to
+  me that they probably don't understand it either. :-)
+
+  Since the paper is still a page under the 10-page limit, the authors
+  should fit in more detail about the experiment.  In particular, it would
+  be good include the exact wording of the five coding questions (which are
+  currently described on page 3) and the exact wording of the instructions
+  for each condition (which are quoted on pages 4-5).  I'd like to see the
+  full context in which the instructions appeared.  This is necessary, in
+  any case, for the results to be reproduced.  The space is there, so if
+  this paper is accepted, please use it!
+
+  Typos and other suggestions:
+  emerging phenomena => phenomenon
+  move footnote 1 into the body text, it's important
+  define "Turkers" when it's first used
+  for each on => for each one
+  Table 3 has a p-value of .074, which contradicts the footnote that says
+  only p-values <= .05 are reported
+
+
+**** R3
+
+  1) p.6 and elsewhere, you carefully report that only punishment-agreement
+  and Bayesian Truth Serum were significantly different from the control
+  treatment. Somewhere you might also point out that these are *not*
+  statistically significantly different from the other treatments. You
+  don't actually say it, but I think your presentation right now encourages
+  the reader to walk away thinking that you found that punishment-agreement
+  and Bayesian Truth Serum worked better than the others. In fact the data
+  don't reliably support that conclusion.
+
+  2) p. 7, you point out that rewards-agreement, though not significantly
+  different from the control, did produce one of the larger point
+  estimates. I think this is reasonable. Indeed, I think it would be
+  unreasonable to treat it as ineffective simply because you can't rule out
+  at the p=.05 level. (Just a comment; not a request for you to do
+  anything, yet, but see item 3).
+
+  3) Points 1 and 2 together lead me to think that you might try coding the
+  treatments with a few dummies (financial reward/punishment or not; norm
+  reminder vs. not; competition vs. not; think about how others will
+  respond vs. not). Then, the regression model could have these dummies,
+  instead of dummies for each of the conditions. Alternatively, you might
+  just put them into a few groups. Then, with the larger effective Ns, you
+  might find a significant difference between groups of conditions, or
+  significant effects of the treatment types (think how others will respond
+  or not).
+
+  4) I think you could take the analysis of Indian vs. not a little
+  further. In particular, are there any interaction effects between Indian
+  vs. not and the treatment types? It would be interesting if you found
+  that the thanks and norm reminders worked effectively with only
+  non-Indians, or only with Indians.
+
+  5) There should be more discussion of the fact that, with all of the
+  motivational messages, the Turkers didn't do very well on the content
+  coding task. Based on Table 1, you'd need a large number of Turkers to
+  get a high confidence coding of any of the questions, and no matter how
+  many you got, you'd never get a correct coding of the Revenue Streams
+  question, since they did worse than chance. Do you think it's better to
+  use Research Assistants after all?
+
+
+
+
+
+** Dana Chandler's suggestion:
+
+If I understand the metric right, it's some kind of # of correct answers (with mean at about 2) and the best treatments have an effect of about .5... so it's a roughly 25% improvement in quantity of answers you collect. Assuming I understand that right, I'd begin to quantify it as follows:
+
+Ordinarily you need to pay 10 cents per answer if you want to get 500 workers per hour (who will do about 1000 answers per hour since each respondent does about 2 answers). Supposing that your actual client need requires you to get about 1000 answers per hour, you can't really afford to pay less because then you won't meet your deadlines. Thus, each hour you pay $50 to your 500 workers who make about 1000 judgments. 
+
+Keep in mind, you can always raise the wage and get more people per hour or lower the wage and get fewer. If suddenly, your workers are given a framing effect that causes them to do 2.5 answers each, you only need 400 workers... Thus, you can lower your wage slightly and still produce 1000 judgments per hour. If you could lower the wage do 9 cents per answer and get 400 workers, then your labor costs would be reduced by 10%. If at 8 cents you could still get 400 workers per hour, you could reduce them 20%, etc.
+
+The basic framework is to think about how the productivity increase (or reduction in attrition, improvement in accuracy, etc.) allows you do readjust your hiring to accomplish the same labor output. The value of an improvement will depend on the nature of work (e.g., how quickly it needs to be done) and the labor marketplace (e.g., how changing wages will affect throughput/quantity/quality of work done).
+
+This is just my thoughts on how to construct a toy example. Although I'm not sure if the above is the exact example you want to use, I do think it's very important to put all of these framing effects into context in terms of what they mean for someone actually employing labor in the marketplace. I'd be curious to hear your thoughts and let me know if you end up using it or thinking about it. It'd be interesting to hear a toy example you'd come up with.
