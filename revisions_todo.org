@@ -44,12 +44,27 @@ TODO  Clarify our interpretation of BTS -- more emphasis on our thought that
   
 Puzzle: BTS works, but (2). What's the deal? (2) causes (1)
 
-BTS worked quite well. This is somewha
+BTS worked quite well. To be clear, we did not follow Prelec's original design and use the BTS to adjust workers' answers or 
+filter -- we simply used it as a contextual manipulation. When compared with the other treatments and control conditions in this regard, 
+BTS likely had two effects: (a) it created some confusion among workers about how exactly they were being evaluated 
+and (b)it created an incentive for workers to think carefully about the respones of other workers.  
 
+Greater engagement with the question probably drove better performance. 
 
   (1) The question was cognitively demanding, in that it required them to think carefully about the question. 
   (2)It seems highly unlikely that the workers fully understood the BTS mechanism.
   (3) The process of estimating other workers' responses to the same question may have driven #1
+
+
+Explanation of difference btwn punishment--disagreement vs. reward--agreement
+  
+  Getting work rejected is consequential in MTurk: workers can be banned from the site. 
+  
+  Even though we did not claim we would block any worker, by putting punishment ``on the table''
+  we may have inadvertently suggested that there could be consequential results to poor
+  performance on that particular question. 
+  
+  
   
 
 
