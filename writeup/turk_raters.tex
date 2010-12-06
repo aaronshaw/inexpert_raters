@@ -52,22 +52,22 @@ breaklinks=true,
 Aaron D. Shaw\\
        \affaddr{UC Berkeley}\\
        \affaddr{410 Barrows Hall \#1980}\\
-       \affaddr{Berkeley, CA 94720-1980}\\
+       \affaddr{Berkeley, CA 94720}\\
        \affaddr{adshaw@berkeley.edu}
 \alignauthor 
 John J. Horton\\
        \affaddr{Harvard University}\\
-       \affaddr{383 Pforzheimer Mail Center}\\
-       \affaddr{56 Linnaean Street}\\
+       \affaddr{383 Pforzheimer MC}\\
+       \affaddr{56 Linnaean St}\\
        \affaddr{Cambridge, MA 02138}\\
-       \affaddr{horton@fas.havard.edu}
+       \affaddr{horton@fas.harvard.edu}
 \alignauthor 
 Daniel L. Chen\\
        \affaddr{Duke University}\\
-      % \affaddr{383 Pforzheimer Mail Center}\\
-      % \affaddr{56 Linnaean Street}\\
-      % \affaddr{Cambridge, MA 02138}\\
-       \affaddr{daniel.li.chen@gmail.com}
+       \affaddr{Science Dr \& Towerview Rd}\\
+       \affaddr{Office 3020}\\
+       \affaddr{Durham, NC 27708}\\
+       \affaddr{dchen@law.duke.edu}
 }
 %\end{comment} 
 
@@ -102,14 +102,14 @@ group.
 \section{Introduction}
 The binding constraint in much observational, empirical social
 science research is finding data with useful, well-measured indepedent
-and dependent variables. Often, compelling research questions require the quantification of complex constructs such as trustworthiness, beauty, or aggression. Since these kinds of measures are unlikely to appear in observational data sets, researchers must look at primary source material and then classify it according to some scheme.\footnote{A recent economic
+and dependent variables. Often, compelling research questions require the quantification of complex constructs such as trustworthiness, beauty, or aggression. Since these kinds of measures are unlikely to appear in observational data sets, researchers must look at primary source material and then classify it according to some scheme. A recent economic
   example used the photograph-based characterizations trustworthiness
   of people asking for loans on the social lending site
   \href{http://www.prosper.com}{Prosper.com} and then used these
-  ratings to predict their outcomes\cite{duarte2009tc}. Another
+  ratings to predict their outcomes\cite{duarte2009tc. Another
   example used inexpert, amateur evaluations of short debate clips
   from gubernatorial elections and found that these evaluations were
-  predictive\cite{benjamin2009}.} Often times these qualitative coding tasks require human judgment, but do not require any expertise. This makes them ripe for delegation to inexpert raters, yet the tasks are often tedious and time-consuming, and finding research assistance to perform the tasks is difficult or expensive. 
+  predictive\cite{benjamin2009}. Often times these qualitative coding tasks require human judgment, but do not require any expertise. This makes them ripe for delegation to inexpert raters, yet the tasks are often tedious and time-consuming, and finding research assistance to perform the tasks is difficult or expensive. 
 % cut from line 107 above:
 % For economists, the problem is less acute
 %since many of the independent variables, such as income, education
@@ -118,7 +118,7 @@ and dependent variables. Often, compelling research questions require the quanti
 %then use more fluid concepts or attributes like trustworthiness,
 %reputation, beauty or aggression to predict social phenomena.
 
-An emerging phenomena---the online labor market---can scale the process of qualitative coding (also known in some social science circles as ``content analysis'') using large numbers of non-experts. However, it remains difficult to elicit and synthesize high-quality judgments from non-expert raters collaborating remotely through online labor markets. Among the foremost practical challenges of this kind, the design of optimal incentives schemes to facilitate this peculiar form of cooperative work has received scant scholarly attention. Prior economic, sociological, and psychological research offers much theoretical guidance, but little empirical evidence as to the sorts of incentives that elicit the highest quality judgments from non-expert raters. 
+An emerging phenomenon---the online labor market---can scale the process of qualitative coding (also known in some social science circles as ``content analysis'') using large numbers of non-experts. However, it remains difficult to elicit and synthesize high-quality judgments from non-expert raters collaborating remotely through online labor markets. Among the foremost practical challenges of this kind, the design of optimal incentives schemes to facilitate this peculiar form of cooperative work has received scant scholarly attention. Prior economic, sociological, and psychological research offers much theoretical guidance, but little empirical evidence as to the sorts of incentives that elicit the highest quality judgments from non-expert raters. 
 
 In this paper, we present the results of a controlled experiment that directly compares the effects of fourteen different incentive schemes within the context of an online labor market. The incentive schemes encompass a wide variety of existing research into human cooperation, labor, motivation, and behavior. We test the incentives using a single non-expert content analysis task, for which we obtained validated answers prior to administering the experiment. We then compare the aggregate performance of workers in the different treatment conditions in order to determine which incentive schemes elicit the most accurate judgments in comparison to the control condition. 
 
@@ -153,11 +153,12 @@ experimentation easier \cite{little-turkit}.
 % TK-JH maybe worth clarifying intensive/extensive margin jargon for non-economists?
 In online labor markets, the usual rules of labor supply generally
 apply: pay more money and you can attract more workers on both the
-intensive and extensive margin. However, attracting more workers does
+extensive margin (i.e., more workers are willing to participate at all) and the 
+intensive margin (i.e., workers that participate work longer or produce more). However, attracting more workers does
 not necessarily lead to better work. 
 
 Earlier work \cite{von2004labeling, ipeirotis2010, snow2008cheap,
-  Hopkins-King2010} has focused on techniques for filtering and
+  Hopkins-King2010, downs2010your} has focused on techniques for filtering and
 processing judgments of inexpert human raters. By contrast, we focus
 on how to produce better judgments in the first place.
 
@@ -167,7 +168,9 @@ MTurk, looked at how knowledge about the purpose of a task affected
 quality and labor supply. US-based subjects that knew they were
 labeling cancer cells in an image produced more output than those not
 similarly informed.  Interestingly, they found no evidence of similar
-effects for non-US workers.
+effects for non-US workers. The same authors also recently conducted
+an experiment in which they demonstrated that slowing down the presentation of 
+survey questions increased comprehension \cite{kapelnerpreventing}. 
 % TK-JH - not sure what these were for...I inserted some into the paragaph above
 %\cite{von2004labeling}
 %\cite{huberman-crowdsourcing}
@@ -227,7 +230,7 @@ For our task, we asked subjects to complete a set of six closed-ended,
 qualitative content analysis questions using an online survey
 interface. All workers in all treatment groups (except one of the two
 control groups, which only answered demographic questions) were
-directed to analyze the same website and then presented with the same
+directed to analyze the \href{http://www.kiva.org}{Kiva.org} website and then presented with the same
 six questions in the same order and with the same answer choices
 through the survey interface. The questions asked subjects to conduct
 content analysis similar to that used in an earlier study by
@@ -236,7 +239,8 @@ questions, workers could choose to leave a blank response.
 
 
 \subsection{Overview of Results} 
-How did the Turkers perform on the five content analysis tasks that we
+How did the workers recruited from Mechaical Turk (``Turkers'') 
+perform on the five content analysis tasks that we
 asked them to complete? The results varied by question as well as by
 treatment condition. On the two easiest questions, the Turkers
 uniformly performed much better than random guessing and only a couple
@@ -288,11 +292,8 @@ answer choices from a pre-defined list.
 The first of the six questions (about whether or not the site had a
 privacy policy) was presented prior to treatment. We report the
 results for this pre-treatment question but do not include it as part
-of our outcome performance measurement.  The actual interface is
-available on Horton's website.\footnote{\href{
-    http://sites.google.com/site/johnjosephhorton/research/data-and-code/AMT-Control.pdf}{
-    http://sites.google.com/site/johnjosephhorton/research/data-and-code/AMT-Control.pdf
-}
+of our outcome performance measurement.  A copy of the questions as they appeared in the experimental interface is
+available on Horton's website.\footnote{\href{\http://goo.gl/9CVa5}{http://goo.gl/9CVa5}
 }
 
 
@@ -472,7 +473,7 @@ incentives were found to effect behavioral outcomes.
   a bonus of 10\% for every agreement.'' %[TK-JH citation]
 \item[Punishment Accuracy (financial)] ``After this HIT has been
   completed, we will verify the correct answers for at least one of
-  the following five questions. For each on of these `trap door'
+  the following five questions. For each one of these `trap door'
   questions we will penalize you 10\% of the bonus that you would have
   received if you answered it incorrectly.'' %[TK-JH citation]
 \item[Punishment Agreement (financial)] ``After this HIT has been
@@ -604,16 +605,14 @@ Soc. network features & 62.8 & 50\\
 % Performance on indiv. questions compared across conditions
 Comparing the percentage of correct answers across questions and
 across experimental conditions reveals fairly consistent performance
-from each of the treatment groups despite the substantial variation
+from each treatment group despite the substantial variation
 across questions (see Figure \ref{fig:per_q}).\footnote{We did not
   conduct hypothesis tests comparing average treatment effects for
   each question. Such question-level effects were not our primary
   outcome variables in part because of the specificity of the content
   of each question and the fact that we looked at responses only from
   a single website. See the Discussion section below for additional
-  consideration of this topic.} \footnote{We created both Figures
-  \ref{fig:per_q} and \ref{fig:AggPerf} using ggplot2 in R
-  \cite{wickham2008ggplot2}.}
+  consideration of this topic.}
 
 \begin{figure} 
 \centering 
@@ -859,6 +858,9 @@ No. 0333403).
 Aaron Shaw thanks Jas Sekhon, Erin Hartman, and Daniel Hidalgo for being really patient. He also thanks Vaughn Hester and John Le of Crowdflower for their feedback on an earlier draft.
 
 Daniel Chen - [insert acknowledgements]
+
+All figures were created with the excellent R package ggplot2, developed by 
+Hadley Wickham \cite{wickham2008ggplot2}.
 %
 \bibliographystyle{abbrv}
 \bibliography{turk_raters.bib}

@@ -1,10 +1,19 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.6)  1 DEC 2010 14:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.6)  6 DEC 2010 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\input turk_raters.tex
-(./turk_raters.tex (./chi2009.cls
-(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+**turk_raters
+(./turk_raters.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(./chi2009.cls (/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
 (/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
@@ -461,7 +470,7 @@ Overfull \hbox (1.19806pt too wide) in paragraph at lines 126--140
 Non-PDF special ignored!
 
 ]
-Overfull \hbox (7.4178pt too wide) in paragraph at lines 193--209
+Overfull \hbox (7.4178pt too wide) in paragraph at lines 194--210
 \OT1/ptm/m/n/10 have demon-strated how machine-learning tools and tech-niques
  []
 
@@ -469,81 +478,79 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.254 
+l.255 
        [2]
-Underfull \hbox (badness 10000) in paragraph at lines 296--296
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
 [][][][][]\OT1/ptm/m/n/9 http://sites.google.com/site/johnjosephhorton/research
 /data-and-
  []
 
 
-Overfull \hbox (1.30658pt too wide) in paragraph at lines 320--327
+Overfull \hbox (1.30658pt too wide) in paragraph at lines 321--328
 \OT1/ptm/m/n/10 skills; em-ploy-ment sta-tus; house-hold size; and in-ter-net s
 kills.
  []
 
 
-Overfull \hbox (1.61774pt too wide) in paragraph at lines 347--372
+Overfull \hbox (1.61774pt too wide) in paragraph at lines 348--373
 \OT1/ptm/m/n/10 unique MTurk user id was si-mul-ta-ne-ously as-signed ran-domly
 
  []
+
+
+Underfull \vbox (badness 7012) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.388 
+l.389 
        [3]
-Overfull \hbox (4.55794pt too wide) in paragraph at lines 391--411
+Overfull \hbox (4.55794pt too wide) in paragraph at lines 392--412
 \OT1/ptm/m/n/10 four-teen dif-fer-ent in-cen-tive frame-works and com-pared wor
 ker
  []
 
 
-Overfull \hbox (1.08817pt too wide) in paragraph at lines 391--411
+Overfull \hbox (1.08817pt too wide) in paragraph at lines 392--412
 \OT1/ptm/m/n/10 that in-volved no fram-ing in-cen-tives be-yond the base-line c
 om-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 423.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 424.
 
-Overfull \hbox (4.59746pt too wide) in paragraph at lines 423--424
+Overfull \hbox (4.59746pt too wide) in paragraph at lines 424--425
 []\OT1/ptm/m/n/10 Workers were pre-sented with all pre-treatment, post-
  []
 
 
-Overfull \hbox (5.15692pt too wide) in paragraph at lines 432--435
+Overfull \hbox (5.15692pt too wide) in paragraph at lines 433--436
 []\OT1/ptm/m/n/10 ``After this HIT has been
  []
 
 
-Overfull \hbox (3.6981pt too wide) in paragraph at lines 438--446
+Overfull \hbox (3.6981pt too wide) in paragraph at lines 439--447
 \OT1/ptm/m/n/10 your team-mates have the op-por-tu-nity to earn bonuses based
  []
 
 
-Overfull \hbox (2.07747pt too wide) in paragraph at lines 446--449
+Overfull \hbox (2.07747pt too wide) in paragraph at lines 447--450
 []\OT1/ptm/m/n/10 ``Before you com-plete the ques-tions,
  []
 
 
-Overfull \hbox (5.39743pt too wide) in paragraph at lines 449--457
+Overfull \hbox (5.39743pt too wide) in paragraph at lines 450--458
 \OT1/ptm/m/n/10 con-fir-ma-tion code and pay-ment for this HIT will not change
  []
 
 
-Overfull \hbox (11.11728pt too wide) in paragraph at lines 457--461
+Overfull \hbox (11.11728pt too wide) in paragraph at lines 458--462
 []\OT1/ptm/m/n/10 ``Before an-swer-ing the
  []
 
 
-Overfull \hbox (5.36722pt too wide) in paragraph at lines 461--467
-[]\OT1/ptm/m/n/10 ``After this HIT has been com-
- []
-
-
-Overfull \hbox (11.8472pt too wide) in paragraph at lines 467--473
+Overfull \hbox (5.36722pt too wide) in paragraph at lines 462--468
 []\OT1/ptm/m/n/10 ``After this HIT has been com-
  []
 
@@ -551,90 +558,108 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.473 \item[Punishment Accuracy (financial)]
-                                             ``After this HIT has been [4]
-Overfull \hbox (6.637pt too wide) in paragraph at lines 478--485
+l.468 \item[Reward Agreement (financial)]
+                                          ``After this HIT has been [4]
+Overfull \hbox (11.8472pt too wide) in paragraph at lines 468--474
+[]\OT1/ptm/m/n/10 ``After this HIT has been com-
+ []
+
+
+Overfull \hbox (6.637pt too wide) in paragraph at lines 479--486
 []\OT1/ptm/m/n/10 ``After this HIT has been
  []
 
 
-Overfull \hbox (10.14725pt too wide) in paragraph at lines 485--489
+Overfull \hbox (10.14725pt too wide) in paragraph at lines 486--490
 []\OT1/ptm/m/n/10 ``After this HIT has been
  []
 
 
-Overfull \hbox (3.45764pt too wide) in paragraph at lines 489--507
+Overfull \hbox (3.45764pt too wide) in paragraph at lines 490--508
 []\OT1/ptm/m/n/10 ``For the fol-low-
  []
 
 
-Overfull \hbox (1.0177pt too wide) in paragraph at lines 507--511
+Overfull \hbox (1.0177pt too wide) in paragraph at lines 508--512
 []\OT1/ptm/m/n/10 ``For the fol-low-ing five ques-
  []
 
 
-Overfull \hbox (2.02858pt too wide) in paragraph at lines 514--524
+Overfull \hbox (2.02858pt too wide) in paragraph at lines 515--525
 \OT1/ptm/m/n/10 The ex-per-i-ment ran from June 2 through Septem-ber 23, 2009.
  []
 
 
-Overfull \hbox (2.74768pt too wide) in paragraph at lines 564--575
+Overfull \hbox (2.74768pt too wide) in paragraph at lines 565--576
 \OT1/ptm/m/n/10 per-for-mance var-ied sig-nif-i-cantly from chance (ran-dom gue
 ss-
  []
 
 
-Overfull \hbox (8.45763pt too wide) in paragraph at lines 564--575
+Overfull \hbox (8.45763pt too wide) in paragraph at lines 565--576
 \OT1/ptm/m/n/10 bet-ter than chance, whereas the ques-tion about rev-enue strea
 ms
  []
 
 
-Overfull \hbox (4.42728pt too wide) in paragraph at lines 564--575
+Overfull \hbox (4.42728pt too wide) in paragraph at lines 565--576
 \OT1/ptm/m/n/10 elicited per-for-mance that was sig-nif-i-cantly worse than cha
 nce. 
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 579.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 580.
 
-Overfull \hbox (37.85733pt too wide) in paragraph at lines 582--601
+Overfull \hbox (37.85733pt too wide) in paragraph at lines 583--602
  [] 
  []
+
+Package epstopdf Info: Source file: <../images/per_q.eps>
+(epstopdf)                    date: 2010-12-06 10:51:42
+(epstopdf)                    size: 33059 bytes
+(epstopdf)             Output file: <../images/per_q-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-06 10:55:52
+(epstopdf)                    size: 10393 bytes
+(epstopdf)             Command: <epstopdf --outfile=../images/per_q-eps-convert
+ed-to.pdf ../images/per_q.eps>
+(epstopdf)             \includegraphics on input line 622.
+Package epstopdf Info: Output file is already uptodate.
+<../images/per_q-eps-converted-to.pdf, id=198, 578.16pt x 758.835pt>
+File: ../images/per_q-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ../images/per_q-eps-converted-to.pdf>
+Underfull \vbox (badness 2426) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.617 
-       [5] <../images/per_q.pdf, id=218, 578.16pt x 758.835pt>
-File: ../images/per_q.pdf Graphic file (type pdf)
-
-<use ../images/per_q.pdf> <../images/AggPerf.pdf, id=221, 578.16pt x 578.16pt>
+l.624 \end{figure}
+                   [5] <../images/AggPerf.pdf, id=218, 578.16pt x 578.16pt>
 File: ../images/AggPerf.pdf Graphic file (type pdf)
 
 <use ../images/AggPerf.pdf>
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 667.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 668.
 
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 667.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 668.
 
-Overfull \hbox (14.44827pt too wide) in paragraph at lines 665--694
+Overfull \hbox (14.44827pt too wide) in paragraph at lines 666--695
  [] 
  []
 
 
-Overfull \hbox (1.13788pt too wide) in paragraph at lines 715--738
+Overfull \hbox (1.13788pt too wide) in paragraph at lines 716--739
 \OT1/ptm/m/n/10 To eval-u-ate whether any sig-nif-i-cant de-mo-graphic fac-tors
  may
  []
 
 
-Overfull \hbox (4.99742pt too wide) in paragraph at lines 715--738
+Overfull \hbox (4.99742pt too wide) in paragraph at lines 716--739
 \OT1/ptm/m/n/10 (OLS) model on the out-come vari-able (ag-gre-gate per-for-manc
 e
  []
@@ -643,56 +668,59 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.738 
-       [6 <../images/per_q.pdf> <../images/AggPerf.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 773--776
+l.739 
+       [6 <../images/per_q-eps-converted-to.pdf> <../images/AggPerf.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 774--777
   
  []
 
 
-Overfull \hbox (1.8772pt too wide) in paragraph at lines 799--803
+Overfull \hbox (1.8772pt too wide) in paragraph at lines 800--804
 \OT1/ptm/m/n/10 other fi-nan-cial in-cen-tive schemes failed hardly im-plies a 
 ring-
  []
 
 
-Overfull \hbox (6.31793pt too wide) in paragraph at lines 804--815
+Overfull \hbox (6.31793pt too wide) in paragraph at lines 805--816
 \OT1/ptm/m/n/10 asked work-ers to prospec-tively con-sider how their peers woul
 d
  []
 
 
-Overfull \hbox (8.9869pt too wide) in paragraph at lines 816--822
+Overfull \hbox (8.9869pt too wide) in paragraph at lines 817--823
 \OT1/ptm/m/n/10 ma-tion seek-ing task per-for-mance). This im-plies that cultur
 ally-
  []
+
+
+Underfull \vbox (badness 7667) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.840 
+l.841 
        [7] (./turk_raters.bblpdfTeX warning (ext4): destination with the same i
 dentifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.148 
+l.136 
        [8])pdfTeX warning (ext4): destination with the same identifier (name{pa
 ge.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.864 \end{document}
+l.867 \end{document}
                      [9
 
 ] (./turk_raters.aux) ) 
 Here is how much of TeX's memory you used:
- 5738 strings out of 493848
- 79846 string characters out of 1152823
+ 5750 strings out of 493848
+ 79968 string characters out of 1152823
  167496 words of memory out of 3000000
  8793 multiletter control sequences out of 15000+50000
  35860 words of font info for 80 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 41i,15n,38p,782b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,15n,38p,771b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</
 usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive
@@ -706,9 +734,9 @@ type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/urw/he
 lvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></
 usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texl
 ive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on turk_raters.pdf (9 pages, 223011 bytes).
+Output written on turk_raters.pdf (9 pages, 227378 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
+ 333 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
  195 words of extra memory for PDF output out of 10000 (max. 10000000)
 

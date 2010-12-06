@@ -5,7 +5,7 @@ Dec. 1, 2010
 
 * List version of stuff we can do/discuss:
 
-** Email Daniel -- esp. to get address, acknowledgements, etc.
+DONE - ** Email Daniel -- esp. to get address, acknowledgements, etc.
 
 ** Layout:
   Fix hbox issues
@@ -16,74 +16,92 @@ Dec. 1, 2010
 
 ** Key reviewer suggestions:
   
-  Consider grouping treatments -- formally, this was part of our
+IGNORED  Consider grouping treatments -- formally, this was part of our
   hypotheses, so I'd be interested to do it. Problem is that many are
   neither financial only or social only, but hybrids. Maybe three groups?
 
-  Note that conditions are significantly different from control, but
+IGNORED  Note that conditions are significantly different from control, but
   not necessarily from each other. [we might discuss how to respond to
   this -- intuitively, the idea that we need to run pairwise comparisons
   across all treatments is fine, but doesn't seem consistent with the
   way we actually ran the analysis (and corrected for the comparisons,
   etc.)] 
 
-  Clarify our interpretation of BTS -- more emphasis on our thought that
-  prospective guessing about other workers' answers seems to be the
-  best bet for a mechanism. Add/expand footnote explaining Prelec's
-  original idea.
+DONE  Clarify or re-word ``intensive & extensive margins'' thing on p.2
 
-  Clarify or re-word ``intensive & extensive margins'' thing on p.2
-
-  State that the website is Kiva.org on p.3 when introducing the tasks,
+DONE  State that the website is Kiva.org on p.3 when introducing the tasks,
   and clarify what “revenue creation” tasks are. (R1)
 
-  Footnote 13 about ggplot is unnecessary. But fix the leading on the
-  Y-axis labels in Figure 1 toward the bottom (e.g., “Cheap norm.
+DONE Fix the Y-axis labels in Figure 1 toward the bottom (e.g., “Cheap norm.
   incentive”).
 
-  Review CHI 2010 paper on MTurk participants who game the system --
+***
+
+TODO  Clarify our interpretation of BTS -- more emphasis on our thought that
+  prospective guessing about other workers' answers seems to be the
+  best bet for a mechanism. Add/expand footnote explaining Prelec's
+  original idea. Check for paper on ``internal crowd'' idea.
+  
+Puzzle: BTS works, but (2). What's the deal? (2) causes (1)
+
+BTS worked quite well. This is somewha
+
+
+  (1) The question was cognitively demanding, in that it required them to think carefully about the question. 
+  (2)It seems highly unlikely that the workers fully understood the BTS mechanism.
+  (3) The process of estimating other workers' responses to the same question may have driven #1
+  
+
+
+DONE  Review CHI 2010 paper on MTurk participants who game the system --
   R1 says it may have additional useful information:
   J. Downs, M. Holbrook, S. Sheng, and L. Cranor. Are Your Participants
   Gaming the System? Screening Mechanical Turk Workers. CHI 2010.
   http://lorrie.cranor.org/pubs/note1552-downs.pdf
 
-  Incorporate wording of five questions (R2)
- 
-  Find a way to incorporate the wording of the treatments (R2). Maybe
+DONE  Incorporate wording of five questions (R2)
+
+DONE  Find a way to incorporate the wording of the treatments (R2). Maybe
   part of the online annex?
 
   Typos and other suggestions for R2:
-    emerging phenomena => phenomenon
-    move footnote 1 into the body text, it's important
-    define "Turkers" when it's first used
-    for each on => for each one
-    Table 3 has a p-value of .074, which contradicts the footnote that says
+DONE    emerging phenomena => phenomenon
+DONE    move footnote 1 into the body text, it's important
+DONE    define "Turkers" when it's first used
+DONE    for each on => for each one
+TODO    Table 3 has a p-value of .074, which contradicts the footnote that says
       only p-values <= .05 are reported
 
-  Consider proposal from R3 to re-run regression with interactions and
+TODO [AS A FOOTNOTE]  Consider proposal from R3 to re-run regression with interactions and
   something like blocking dummies.
 
-  Consider R3's comment re: potential interaction effects between
+TODO [AS A FOOTNOTE]  Consider R3's comment re: potential interaction effects between
   Indian & not-Indian and various treatments. Formally, this was not
   part of our hypothesis in the experiment design and so I'm hesitant
   to claim we actually have a good reason to test it. At the same
   time, it'd be obviously interesting to look at the results along
   these lines...thoughts?
 
-  Add a couple of sentences to the conclusion addressing R3's final
+TODO  Add a couple of sentences to the conclusion addressing R3's final
   question re: is it better to use research assistants after all?
   Basic response: Our results suggest that Turkers appear to have a
   wide range of abilities and that some task framings may elicit
   higher quality performance than others. It is worth emphasizing that
   we do not utilize any of the quality-control techniques discussed
   elsewhere for filtering data generated in Mturk and similar
-  environments\cite{Panos; Snow et al.; other papers...}. As a result,
+  environments\cite{Panos; Snow et al.; Chandler & Kapelner other papers...}.  As a result,
   we do not use our findings as a basis for any general claims about
   the utility (or lack thereof) of Mturk for crowdsourced content
   analysis as a reliable method of data collection.
 
+We hypothesize that incorporating additional quality control techniques on top of the effective treatment conditions reported in this study could amplify quality improvements beyond what we report here and what other studies have found. Subsequent research is needed to determine the effects of interactions between the worker characteristics, motivational framing, and other interface design manipulations.
+
+TODO -- introduce judd & john (aaron)
+
 
 ** Dana's suggestion
+
+IGNORED
 
   Consider Dana's suggestion that we quantify the value of our
   findings in terms of concrete task performance. Your thoughts on

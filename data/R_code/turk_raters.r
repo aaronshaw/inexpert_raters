@@ -3,7 +3,7 @@
 #
 # Created: Monday, June 14, 2010
 # 
-# Last Revised: 8/4/2010
+# Last Revised: 12/6/2010
 
 # preliminaries:
 
@@ -16,6 +16,7 @@ require(stats)
 require(graphics)
 library(multtest)
 
+# note -- install biobase later to get multtest back.
 
 
 # get the data:
@@ -432,11 +433,24 @@ p <- ggplot(gplotm, aes(x=Condition, y=Correct, label=signif(Correct, 2))) # add
 
 condition.names <- names(table(dsub$condition))
 
-condition.names[c(2,3,4,5,6,7,8,10,14)] <- c("Tournament", "Cheap\nsurveillance", "Cheap\nnorm. incentive", "Reward\naccuracy", "Reward\nagmt", "Punish\naccuracy", "Punish\nagmt", "Promise\nopport.", "Norm\nprime")
+condition.names[c(2,3,4,5,6,7,8,10,14)] <- c("Tournament",
+                                             "Cheap surveillance",
+                                             "Cheap norm. incentive",
+                                             "Reward accuracy",
+                                             "Reward agmt",
+                                             "Punish accuracy",
+                                             "Punish agmt",
+                                             "Promise opport.", "Norm prime")
 
+# condition.names <- as.character(c(1:15))
 
-pa <- p + geom_bar(stat="identity", aes(fill=Question)) + facet_grid(Question~.) + scale_fill_brewer(palette="Dark2") + opts(legend.position = "none") + scale_y_continuous(name="\nPercent Correct (per question)", formatter="percent") + scale_x_discrete(name="Condition", labels=condition.names)
-
+pa <- p + geom_bar(stat="identity", aes(fill=Question)) +
+  facet_grid(Question~.) + scale_fill_brewer(palette="Dark2") +
+  scale_y_continuous(name="\nPercent Correct (per question)",
+                     formatter="percent") + opts(legend.position =
+  "none") + scale_x_discrete(name="Condition",
+  labels=(condition.names), breaks=levels(gplotm$Condition))
+                  
 # title="Histograms of treatment outcomes per information seeking question\n",
 
 pa
@@ -451,7 +465,7 @@ pa3 <- pa2 + theme_bw() + opts(axis.title.x = theme_text(size=24), axis.title.y 
 
 pa3
 
-postscript("../images/per_q.eps", title=NULL, width=11, height=8.5)
+postscript("../../images/per_q.eps", title=NULL, width=11, height=8.5)
 pa3
 dev.off()
 
