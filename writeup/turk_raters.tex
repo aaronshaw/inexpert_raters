@@ -735,7 +735,13 @@ conditions, and these three covariates.\footnote{The fact that country
   of residence as a binary variable, indicating whether workers
   self-reported as residing in India or not.}
 
-The second model (reported in Table \ref{table:demog_control_model}) suggests a significant, negative association between performance on our outcome measure, poor web skills and residence in India (both covariates were significant at the $p \leq 0.001$ level after correcting for multiple comparisons). Remarkably, the point estimate of the association between residence in India and the outcome variable dwarfed any of our estimated treatment effects. While household size also remained significant at the $p \leq 0.1$ level, the point estimate dropped below 0.05, implying a weaker association with worker performance.
+The second model (reported in Table \ref{table:demog_control_model})
+suggests a significant, negative association between performance on
+our outcome measure, poor web skills and residence in India (both
+covariates were significant at the $p \leq 0.001$ level after
+correcting for multiple comparisons). Remarkably, the point estimate
+of the association between residence in India and the outcome variable
+dwarfed any of our estimated treatment effects.
 
 % table 3 - demog controls
 \begin{table}[ht]					% set the layout
@@ -756,7 +762,7 @@ Reward-agreement & 0.310 & 0.139 &\\
 Punishment-accuracy & 0.230 & 0.133 &\\
 Punishment-agreement & 0.482 & 0.137 & 0.008\\
 Solidarity & 0.291 & 0.144 &\\
-Promise-opportunity & 0.398 & 0.139 & 0.074\\
+Promise-opportunity & 0.398 & 0.139 &\\
 Humanization & 0.136 & 0.141 &\\
 Trust & 0.047 & 0.138 &\\
 BTS & 0.596 & 0.138 & 0.000\\
@@ -789,26 +795,73 @@ India resident & -0.739 & 0.068 & 0.000\\
 
 Our results suggest a significant, positive effect of two treatment
 conditions - punishment for disagreement with other workers, and
-``Bayesian Truth Serum'' - on worker performance in a qualitative
-information seeking task on MTurk. None of the ``social'' incentive
+``Bayesian Truth Serum'' (BTS)- on worker performance in a qualitative
+information seeking task on MTurk. None of the purely ``social'' incentive
 schemes altered performance significantly. This suggests that workers
 in the MTurk environment may not respond to these sorts of
 motivational levers.
 
-Even though we consider examples of financial incentive schemes, the
-fact that they alone succeeded where so many other financial incentive
-schemes failed hardly implies a ringing endorsement of monetary
-incentives by the workers.
+Even though the two most effective conditions -- BTS
+and punishment for disageement -- are both examples of financial incentive
+schemes, the fact that they alone succeeded does not imply a ringing
+endorsement of monetary incentives over social incentives by the
+workers on Mturk. Rather, the challenge of these results lies in
+explaining why these \emph{particular} financial incentive schemes
+appeared to work where so many others did not.\footnote{One of the
+  anonymous CSCW reviewers suggested comparing the financial
+  incentives versus the social incentives in another way by grouping
+  the conditions into clusters and estimating treatment effects
+  between the different clusters. While our research design supports
+  this line of inquiry, we choose not to pursue it here for two
+  reasons. First, we did not conduct any preliminary testing to
+  validate our classification of the different treatments into one or
+  the other group. Second, our findings suggest that even the
+  financial incentives were not purely financial in any sense (see the
+  rest of this Discussion section for more on this topic).}
 
-Rather, we believe the most compelling explanation of these
-treatments' relative success derives from the fact that both asked
-workers to prospectively consider how their peers would answer the
-information seeking questions. In this regard, it is noteworthy that
-the third treatment designed along similar lines (rewards for
-agreement with other workers) did not produce significant effects
-according to our ITT estimation of difference of means. However, the
-rewards-agreement condition did produce one of the larger
-point-estimates, suggesting that this sort of prospective reasoning by
+We contend that the most likely explanation of these results hinges on
+the fact that both the BTS and punishment-disagreement conditions tied
+worker payoffs to their ability to prospectively reason about the
+performance of their peers. However, what specific mechanisms can
+account for these effects in each condition?
+
+When compared with the other treatments and control conditions, BTS
+likely had two effects: (a) it created some confusion among workers
+about how exactly they were being evaluated; and (b) it created an
+incentive for workers to think carefully about the respones of other
+workers. The combination of confusion and cognitive demand probably
+elicited greater engagement with the question, and this engagement in
+turn probably drove better performance.In the case of BTS, we should
+underscore that the treatment effect is not due to any manipulation of
+the responses or the predictions provided by the workers regarding the
+distribution of responses. In this regard, we did we did not follow
+Prelec's original design and use the BTS to adjust or filter workers'
+answers.\cite{prelec_bts_2004} Instead, we simply used it as a
+contextual manipulation. Given that we did not provide much
+information about the BTS design to the workers performing the task,
+it also seems unlikely that they would have understood the analytical
+mechanisms proposed by Prelec.
+
+The effect of the Punishment-disagreement condition raises a distinct
+set of concerns insofar as it closely resembles the Reward-agreement
+condition. In theory, both conditions ask workers to perform a similar
+set of calculations about the likely responses of other Mturk
+workers. However, the key difference between the two stems from the
+role of punishment and reward in the context of relational contracts in
+online labor markets. In Mturk, punishment of workers by requesters is
+consequential in a way that rewards is not: workers can be banned from
+the site if their work is rejected by requesters. As a result, even
+though we did not claim we would block any worker as part of the
+Punishment-disagreement condition , by putting punishment ``on the
+table''  we may have inadvertently suggested that there could be
+consequential results (like rejection) to poor performance on that particular
+question. In contrast, the language of rewards and bonus payments used
+in the Reward-agreement condition would not carry any of these
+conotations.
+ 
+It is noteworthy that although the Reward-agreement condition did not
+have significant effects, it did produce one of the larger
+point-estimates, suggesting that prospective reasoning by
 workers about their peers may have played an attenuated role in that
 group as well.
 
@@ -817,7 +870,15 @@ India, web skills, and our outcome variable (information seeking task
 performance). This implies that culturally-relevant knowledge and
 experience online may play an important role mediating workers'
 ability to perform the sort of qualitative information seeking task we
-asked them to do here.
+asked them to do here.\footnote{As a comparison across Mturk workers
+  in India and the U.S. was not part of our original research design
+  or hypotheses, we chose not to compare treatment effects across the
+  two populations in a more purposive manner. Nevertheless, our
+  findings here strongly suggest that future research should conduct
+  cross-national comparisons of workers in online labor markets and
+  other settings. Based on our results, we anticipate significant
+  differences of motivation and performance along these
+  lines.\cite{antin2011desirability}}
 
 At the same time, we do not believe that these demographic factors
 undermine our findings with regards to the effects of punishment for
@@ -833,10 +894,42 @@ different treatment groups.
 
 \section{Conclusions and Future Work}
 
-The connection we observe between qualitative information seeking performance and treatment conditions asking workers to engage in prospective reasoning about their peers merits further analysis in online and offline settings. In addition, future studies conducted online and with international subject populations should consider the effects of potentially confounding covariates such as country of origin and web-use skills when designing comparable studies. In our case, the randomization proved effective, but this might not be possible in other settings.
+The connection we observe between qualitative information seeking
+performance and treatment conditions asking workers to engage in
+prospective reasoning about their peers merits further analysis in
+online and offline settings. In addition, future studies conducted
+online and with international subject populations should consider the
+effects of potentially confounding covariates such as country of
+origin and web-use skills when designing comparable studies. In our
+case, the randomization proved effective, but this might not be
+possible in other settings. 
 
-Finally, we believe that similar studies should be conducted among other populations online where the existing institutional structure favors other motivational criteria. The rules and norms of the MTurk marketplace strongly favor financial incentives and arms-length relational contracting over more personalistic or socially-oriented modes of exchange. Therefore, it would be interesting to know whether the same incentive schemes would work among a population of Wikipedia contributors who are accustomed to performing similar tasks without any financial payoffs at all.
+Our results suggest that Turkers appear to have a wide range of
+abilities and that some task framings may elicit higher quality
+performance than others. It is worth emphasizing that we do not
+utilize any of the quality-control techniques discussed elsewhere for
+filtering data generated in Mturk and similar
+environments\cite{von2004labeling, ipeirotis2010, snow2008cheap,
+  Hopkins-King2010, downs2010your, chandler2010, kapelnerpreventing}.
+As a result, we do not use our findings as a basis for any general
+claims about the utility (or lack thereof) of Mturk for crowdsourced
+content analysis as a reliable method of data collection. Indeed, we
+hypothesize that incorporating additional quality control techniques
+on top of the effective treatment conditions reported in this study
+could amplify quality improvements beyond what we report here and what
+other studies have found. Subsequent research is needed to determine
+the effects of interactions between the worker characteristics,
+motivational framing, and other interface design manipulations.
 
+Finally, we believe that similar studies should be conducted among
+other populations online where the existing institutional structure
+favors other motivational criteria. The rules and norms of the MTurk
+marketplace strongly favor financial incentives, punishment-oriented
+consequences, and arms-length relational contracting over more
+personalistic or socially-oriented modes of exchange. Therefore, it
+would be interesting to know whether the same incentive schemes would
+work among a population of Wikipedia contributors who are accustomed
+to performing similar tasks without any financial payoffs at all.
 %Further experimentation is needed. 
 %Across different tasks. 
 %Populations (Cite Chandler)

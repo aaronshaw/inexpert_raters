@@ -35,9 +35,7 @@ DONE  State that the website is Kiva.org on p.3 when introducing the tasks,
 DONE Fix the Y-axis labels in Figure 1 toward the bottom (e.g., “Cheap norm.
   incentive”).
 
-***
-
-TODO  Clarify our interpretation of BTS -- more emphasis on our thought that
+DONE  Clarify our interpretation of BTS -- more emphasis on our thought that
   prospective guessing about other workers' answers seems to be the
   best bet for a mechanism. Add/expand footnote explaining Prelec's
   original idea. Check for paper on ``internal crowd'' idea.
@@ -63,10 +61,6 @@ Explanation of difference btwn punishment--disagreement vs. reward--agreement
   Even though we did not claim we would block any worker, by putting punishment ``on the table''
   we may have inadvertently suggested that there could be consequential results to poor
   performance on that particular question. 
-  
-  
-  
-
 
 DONE  Review CHI 2010 paper on MTurk participants who game the system --
   R1 says it may have additional useful information:
@@ -84,34 +78,28 @@ DONE    emerging phenomena => phenomenon
 DONE    move footnote 1 into the body text, it's important
 DONE    define "Turkers" when it's first used
 DONE    for each on => for each one
-TODO    Table 3 has a p-value of .074, which contradicts the footnote that says
+DONE    Table 3 has a p-value of .074, which contradicts the footnote that says
       only p-values <= .05 are reported
 
-TODO [AS A FOOTNOTE]  Consider proposal from R3 to re-run regression with interactions and
+DONE [AS A FOOTNOTE]  Consider proposal from R3 to re-run regression with interactions and
   something like blocking dummies.
 
-TODO [AS A FOOTNOTE]  Consider R3's comment re: potential interaction effects between
+DONE [AS A FOOTNOTE]  Consider R3's comment re: potential interaction effects between
   Indian & not-Indian and various treatments. Formally, this was not
   part of our hypothesis in the experiment design and so I'm hesitant
   to claim we actually have a good reason to test it. At the same
   time, it'd be obviously interesting to look at the results along
   these lines...thoughts?
 
-TODO  Add a couple of sentences to the conclusion addressing R3's final
+DONE Add a couple of sentences to the conclusion addressing R3's final
   question re: is it better to use research assistants after all?
-  Basic response: Our results suggest that Turkers appear to have a
-  wide range of abilities and that some task framings may elicit
-  higher quality performance than others. It is worth emphasizing that
-  we do not utilize any of the quality-control techniques discussed
-  elsewhere for filtering data generated in Mturk and similar
-  environments\cite{Panos; Snow et al.; Chandler & Kapelner other papers...}.  As a result,
-  we do not use our findings as a basis for any general claims about
-  the utility (or lack thereof) of Mturk for crowdsourced content
-  analysis as a reliable method of data collection.
+  Basic response: 
 
-We hypothesize that incorporating additional quality control techniques on top of the effective treatment conditions reported in this study could amplify quality improvements beyond what we report here and what other studies have found. Subsequent research is needed to determine the effects of interactions between the worker characteristics, motivational framing, and other interface design manipulations.
 
-TODO -- introduce judd & john (aaron)
+
+DONE -- introduce judd & john (aaron)
+
+
 
 
 ** Dana's suggestion

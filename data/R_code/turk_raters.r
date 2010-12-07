@@ -14,10 +14,13 @@ library(ggplot2)
 library(Hmisc)
 require(stats)
 require(graphics)
+
+# the package multtest requires Biobase, which is not available
+# through the CRAN repository. To install Biobase, uncomment
+# the next two lines:
+#source("http://www.bioconductor.org/biocLite.R")
+#biocLite("Biobase")   
 library(multtest)
-
-# note -- install biobase later to get multtest back.
-
 
 # get the data:
 
@@ -155,8 +158,6 @@ summary(model.agg2)
 
 # MODEL 3 -
 # agg.noprivsn removes sn too since the contingency table of results suggests no significant differences across treatments
-
-
 model.agg3 <- lm(agg.noprivsn ~ condition, data = dsub)
 summary(model.agg3)
 
@@ -166,7 +167,6 @@ summary(model.agg3)
 # ADJUSTMENTS FOR MULTIPLE TESTS:
 #
 # calculate adjusted p values using the second model (no privacy q)
-
 tests <- c("Bonferroni","Holm", "Hochberg")
 
 m2 <- summary(model.agg2)
@@ -302,8 +302,7 @@ bonf.vals <- adjp.itt$adjp[,2]
 
 
 ITT.results$bonferroni <- bonf.vals[order(bonf.index)]
-
-# TK-JH - I would use this set - ITT.results - to produce our
+# Use this set - ITT.results - to produce our
 # final visualization of the results...
 
 
@@ -318,7 +317,6 @@ ITT.results$bonferroni <- bonf.vals[order(bonf.index)]
 
 
 # creating a model:
-
 model.controls <- lm(agg.nopriv ~ condition + age + edu + hhsize + female + notenglish + hhemploy + employed.f + country + feeds + tabs, data=dsub)
 summary(model.controls)
 
@@ -342,7 +340,6 @@ tabs.tmp <- as.numeric(tabs.tmp)
 dsub$tabs.num <- tabs.tmp
 
 # now a new model:
-
 model.control3 <-  lm(agg.nopriv ~ condition + tabs.num + hhsize, data=dsub)
 summary(model.control3)
 
@@ -373,7 +370,9 @@ dsub$countryIN <- grepl("IN", dsub$country)
 model.control4 <- lm(agg.nopriv ~ condition + tabs.num + hhsize + countryUS + countryIN, data=dsub)
 summary(model.control4)
 
-
+### THIS model
+# reported in table 3 of the
+# final paper.
 model.control5 <- lm(agg.nopriv ~ condition + tabs.num + hhsize + countryIN, data=dsub)
 summary(model.control5)
 
