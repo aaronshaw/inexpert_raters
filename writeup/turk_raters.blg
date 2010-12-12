@@ -4,45 +4,45 @@ The style file: abbrv.bst
 Database file #1: turk_raters.bib.bib
 Warning--to sort, need author or key in world_vals_survey2009
 Warning--empty author in world_vals_survey2009
-You've used 27 entries,
+You've used 31 entries,
             2118 wiz_defined-function locations,
-            636 strings with 7703 characters,
-and the built_in function-call counts, 7387 in all, are:
-= -- 727
-> -- 324
-< -- 1
-+ -- 136
-- -- 102
-* -- 455
-:= -- 1295
-add.period$ -- 81
-call.type$ -- 27
-change.case$ -- 131
+            654 strings with 8338 characters,
+and the built_in function-call counts, 8700 in all, are:
+= -- 854
+> -- 380
+< -- 2
++ -- 158
+- -- 120
+* -- 525
+:= -- 1503
+add.period$ -- 94
+call.type$ -- 31
+change.case$ -- 152
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 299
-empty$ -- 585
-format.name$ -- 102
-if$ -- 1505
+cite$ -- 33
+duplicate$ -- 362
+empty$ -- 702
+format.name$ -- 120
+if$ -- 1795
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 29
-newline$ -- 137
-num.names$ -- 52
-pop$ -- 131
+int.to.str$ -- 31
+missing$ -- 33
+newline$ -- 157
+num.names$ -- 60
+pop$ -- 163
 preamble$ -- 1
-purify$ -- 105
+purify$ -- 122
 quote$ -- 0
-skip$ -- 206
+skip$ -- 250
 stack$ -- 0
-substring$ -- 374
-swap$ -- 38
-text.length$ -- 1
+substring$ -- 434
+swap$ -- 56
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
+type$ -- 120
 warning$ -- 2
-while$ -- 71
-width$ -- 29
-write$ -- 281
+while$ -- 82
+width$ -- 33
+write$ -- 323
 (There were 2 warnings)

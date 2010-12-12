@@ -1,3 +1,5 @@
+% ubicomp2009.cls
+% adapted from:
 % chi2009.cls
 % Libby Hemphill August 18, 2005
 %
@@ -35,6 +37,7 @@
 %\abstract{This is the abstract}
 %\keywords{Put author keywords here}
 %\classification{The ACM Classification keywords here.}
+%\generalterms{The General Terms here.}
 %
 %\section{Introduction}
 % ...
@@ -134,8 +137,8 @@
 %%%     dvips -e 0 foo.dvi >foo.ps
 %%%
 
-\typeout{Document Class 'chi2009' <23rd July '04>.} % DLC
-\typeout{Shamelessly copied from Document Class 'chiproceedings' <7th Sep. '00>. Modified by Jan O. Borchers}        % DLC
+\typeout{Document Class 'ubicomp2009' <10th Marcch 2009>.} % DLC
+\typeout{Shamelessly copied from Document Class 'chi2009' which was copied from 'chiproceedings' <7th Sep. '00>. Modified by Jan O. Borchers}        % DLC
 \typeout{And also based on Document Class 'acm_proc_article-sp' <2nd. October '02>.  Modified by G.K.M. Tobin} % DLC
 \typeout{Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by}
 \typeout{shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca}
@@ -158,7 +161,7 @@
 \headheight 0pt                 % Height of box containing running head.
 \headsep 0pt                    % Space between running head and text.
                                 % Bottom of page:
-\footskip 30pt                  % Distance from baseline of box containing foot
+\footskip 42pt                  % Distance from baseline of box containing foot
                                 % to baseline of last line of text.
 \@ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
 \footheight 12pt                % Height of box containing running foot.
@@ -662,7 +665,7 @@
 \if@ll
   \NeedsTeXFormat{LaTeX2e}
 %  \ProvidesClass{acm_proc_article-sp} [2002/2/10 - V2.6SP - based on esub2acm.sty <23 April 96>]
-  \ProvidesClass{chi2009} [2003/9/22 - V0.12]  % DLC
+  \ProvidesClass{ubicomp2009} [2003/9/22 - V0.12]  % DLC
   \RequirePackage{latexsym}% QUERY: are these two really needed?
   \let\dooptions\ProcessOptions
 \else
@@ -856,6 +859,13 @@
 
 \def\classification{%\if@twocolumn
 \section*{ACM Classification Keywords}
+%\else \small
+%\quotation\the\parskip
+%\fi}
+}
+
+\def\generalterms{%\if@twocolumn
+\section*{General Terms}
 %\else \small
 %\quotation\the\parskip
 %\fi}
@@ -1495,13 +1505,14 @@
 %
 \newtoks\copyrightetc
 \global\copyrightetc{\ } %  Need to have 'something' so that adequate space is left for pasting in a line if "confinfo" is supplied.
-
 \toappear{Permission to make digital or hard copies of all or part of this
 work for personal or classroom use is granted without fee provided that 
 copies are not made or distributed for profit or commercial advantage and
 that copies bear this notice and the full citation on the first page. To
 copy otherwise, or republish, to post on servers or to redistribute to 
 lists, requires prior specific permission and/or a fee.\\
-{\confname{CHI 2009}}, April 4 - 9, 2009,  Boston, Massachusetts, USA.\\
-Copyright 2009 ACM 978-1-60558-246-7/09/04...\$10.00.}
-% End of chi2009proceedings.cls - version 0.13
+{\confname{CSCW 2011}}, March 19-23, 2011, Hangzhou, China.\\ %edited to reflect cscw 2011
+Copyright 2010 ACM 978-1-60558-795-0/10/02...\$10.00.}
+
+
+% End of cscw2010.cls

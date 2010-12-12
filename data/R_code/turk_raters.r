@@ -26,6 +26,18 @@ library(multtest)
 
 d <- read.csv("~/Dropbox/turk_raters/AMT-data/Turk_raters_data_2010-0614.csv")# alter location accordingly
 
+## Tests to see if the randomization worked
+
+rando <- lm(as.numeric(condition) ~ hhsize + female + country, data=d)
+summary(rando)
+# correct for multiplpe comparisons.
+rando.model <- summary(rando)
+pvals.rando <- rando.model$coefficients[,4]
+adjp.rando <- mt.rawp2adjp(pvals.rando, "Bonferroni")
+adjp.rando
+# none are significant.
+
+
 #subset the data to remove demographic control for analysis of the outcomes:
 dsub <- subset(d, condition != "Demog only")
 

@@ -5,6 +5,11 @@ World values survey 1981-2008 official aggregate v.20090901.
 \newblock {\em World Values Survey Association (www.worldvaluessurvey.org),
   Aggregate File Producer: {ASEP/JDS,} Madrid}, 2009.
 
+\bibitem{antin2011desirability}
+J.~Antin and A.~Shaw.
+\newblock {Social Desirability Bias in Reports of Motivation on Mturk}.
+\newblock In {\em CSCW Horizons Workshop}, 2011.
+
 \bibitem{benjamin2009}
 D.~J. Benjamin and J.~M. Shapiro.
 \newblock Thin-slice forecasts of gubernatorial elections.
@@ -22,6 +27,11 @@ D.~Chandler and A.~Kapelner.
 \newblock Breaking monotony with meaning: Motivation in crowdsourcing markets.
 \newblock {\em University of Chicago mimeo}, 2010.
 
+\bibitem{chen2010markets}
+D.~L. Chen.
+\newblock {Markets and Morality: How Does Competition Affect Moral Judgment?}
+\newblock {\em Working Paper, Duke University School of Law}, 2010.
+
 \bibitem{chen2009}
 D.~L. Chen and J.~J. Horton.
 \newblock The wages of paycuts: Evidence from a field experiment.
@@ -31,6 +41,13 @@ D.~L. Chen and J.~J. Horton.
 J.~Cohen.
 \newblock A coefficient of agreement for nominal scales.
 \newblock {\em Educational \& Psychological Measurement}, 20(1):37--46, 1960.
+
+\bibitem{downs2010your}
+J.~Downs, M.~Holbrook, S.~Sheng, and L.~Cranor.
+\newblock {Are your participants gaming the system?: screening mechanical turk
+  workers}.
+\newblock In {\em Proceedings of the 28th international conference on Human
+  factors in computing systems}, pages 2399--2402. ACM, 2010.
 
 \bibitem{duarte2009tc}
 J.~Duarte, S.~Siegel, and L.~A. Young.
@@ -84,6 +101,11 @@ B.~A. Huberman, D.~Romero, and F.~Wu.
 P.~Ipeirotis.
 \newblock Demographics of mechanical turk.
 \newblock {\em New York University Working Paper}, 2010.
+
+\bibitem{kapelnerpreventing}
+A.~Kapelner and D.~Chandler.
+\newblock {Preventing Satisficing in Online Surveys}.
+\newblock In {\em Proceedings of 2010 CrowdConf}, 2010.
 
 \bibitem{kittur2008crowdsourcing}
 A.~Kittur, E.~H. Chi, and B.~Suh.
