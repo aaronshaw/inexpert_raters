@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.6)  10 DEC 2010 16:15
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.6)  21 DEC 2010 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -423,16 +423,16 @@ LaTeX Info: Redefining \pageref on input line 34.
 \openout3 = `turk_raters.out'.
 
 \AtBeginShipoutBox=\box36
-LaTeX Font Info:    Try loading font information for U+msa on input line 80.
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
  (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 80.
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 80.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 82.
 
 (/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
@@ -445,17 +445,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Non-PDF special ignored!
 
 ]
-Overfull \hbox (1.19806pt too wide) in paragraph at lines 147--161
+Overfull \hbox (1.19806pt too wide) in paragraph at lines 149--163
 \OT1/ptm/m/n/10 cus on skilled work like com-puter pro-gram-ming (e.g., oDesk,
+ []
+
+
+Overfull \hbox (2.39806pt too wide) in paragraph at lines 242--251
+\OT1/ptm/m/n/10 For our task, we asked sub-jects re-cruited from MTurk (``Turk-
+
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.252 \subsection
-                 {Overview of Results} [2]
-Overfull \hbox (1.30658pt too wide) in paragraph at lines 326--332
+l.253 \subsection{Overview of Results}
+                                       [2]
+Overfull \hbox (1.30658pt too wide) in paragraph at lines 327--333
 \OT1/ptm/m/n/10 skills; em-ploy-ment sta-tus; house-hold size; and in-ter-net s
 kills.
  []
@@ -464,48 +470,61 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.377 
+l.378 
        [3]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 428.
+Overfull \hbox (6.40741pt too wide) in paragraph at lines 397--417
+\OT1/ptm/m/n/10 gether, these in-cen-tive schemes en-com-pass a num-ber of sali
+ent
+ []
 
-Overfull \hbox (4.59746pt too wide) in paragraph at lines 428--429
+
+Overfull \hbox (17.51736pt too wide) in paragraph at lines 397--417
+\OT1/ptm/m/n/10 ences. Gen-er-ally, the so-cial in-cen-tives em-pha-sized non-m
+onetary
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 425.
+
+Overfull \hbox (4.59746pt too wide) in paragraph at lines 425--426
 []\OT1/ptm/m/n/10 Workers were pre-sented with all pre-treatment, post-
  []
 
 
-Overfull \hbox (3.6981pt too wide) in paragraph at lines 443--451
+Overfull \hbox (3.6981pt too wide) in paragraph at lines 440--448
 \OT1/ptm/m/n/10 your team-mates have the op-por-tu-nity to earn bonuses based
  []
 
 
-Overfull \hbox (2.07747pt too wide) in paragraph at lines 451--454
+Overfull \hbox (2.07747pt too wide) in paragraph at lines 448--451
 []\OT1/ptm/m/n/10 ``Before you com-plete the ques-tions,
+ []
+
+
+Overfull \hbox (5.36722pt too wide) in paragraph at lines 462--468
+[]\OT1/ptm/m/n/10 ``After this HIT has been com-
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.465 \item[Reward Accuracy (financial)]
-                                         ``After this HIT has been completed,
-[4]
-Overfull \hbox (5.36722pt too wide) in paragraph at lines 465--471
-[]\OT1/ptm/m/n/10 ``After this HIT has been com-
- []
-
-
-Overfull \hbox (3.45764pt too wide) in paragraph at lines 493--511
+l.468 \item[Reward Agreement (financial)]
+                                          ``After this HIT has been\\ [4]
+Overfull \hbox (3.45764pt too wide) in paragraph at lines 490--508
 []\OT1/ptm/m/n/10 ``For the fol-low-
  []
 
 
-Overfull \hbox (1.0177pt too wide) in paragraph at lines 511--515
+Overfull \hbox (1.0177pt too wide) in paragraph at lines 508--512
 []\OT1/ptm/m/n/10 ``For the fol-low-ing five ques-
  []
 
 
-Overfull \hbox (2.02858pt too wide) in paragraph at lines 518--528
+Overfull \hbox (2.02858pt too wide) in paragraph at lines 515--525
 \OT1/ptm/m/n/10 The ex-per-i-ment ran from June 2 through Septem-ber 23, 2009.
  []
 
@@ -513,10 +532,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.581 
+l.578 
        [5]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 585.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 582.
 Package epstopdf Info: Source file: <../images/per_q.eps>
 (epstopdf)                    date: 2010-12-06 10:51:42
 (epstopdf)                    size: 33059 bytes
@@ -525,7 +544,7 @@ Package epstopdf Info: Source file: <../images/per_q.eps>
 (epstopdf)                    size: 10393 bytes
 (epstopdf)             Command: <epstopdf --outfile=../images/per_q-eps-convert
 ed-to.pdf ../images/per_q.eps>
-(epstopdf)             \includegraphics on input line 623.
+(epstopdf)             \includegraphics on input line 620.
 Package epstopdf Info: Output file is already uptodate.
 
 <../images/per_q-eps-converted-to.pdf, id=217, 578.16pt x 758.835pt>
@@ -536,23 +555,23 @@ File: ../images/per_q-eps-converted-to.pdf Graphic file (type pdf)
 File: ../images/AggPerf.pdf Graphic file (type pdf)
 
 <use ../images/AggPerf.pdf>
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 667.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 664.
 
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 667.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 664.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 687.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 684.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.702 
+l.699 
        [6 <../images/per_q-eps-converted-to.pdf> <../images/AggPerf.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 769--771
+Underfull \hbox (badness 10000) in paragraph at lines 766--768
   
  []
 
@@ -560,12 +579,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.813 
+l.810 
        [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (4.00728pt too wide) in paragraph at lines 856--870
+\OT1/ptm/m/n/10 work-ers' abil-ity to per-form the sort of qual-i-ta-tive infor
+mation-
+ []
 
 
-Overfull \hbox (4.12787pt too wide) in paragraph at lines 887--896
+Overfull \hbox (4.12787pt too wide) in paragraph at lines 884--893
 \OT1/ptm/m/n/10 The con-nec-tion we ob-served be-tween qual-i-ta-tive informati
 on-
  []
@@ -574,17 +596,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.923 
-       [8]pdfTeX warning (ext4): destination with the same identifier (name{pag
-e.}) has been already used, duplicate ignored
+l.921 \section{Acknowledgments}
+                                [8]pdfTeX warning (ext4): destination with the 
+same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1088 \bibitem{rosenthalrubin1984}
-                                    [9]pdfTeX warning (ext4): destination with 
-the same identifier (name{page.}) has been already used, duplicate ignored
+l.1090 \bibitem{shaffer1995}
+                             [9]pdfTeX warning (ext4): destination with the sam
+e identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1127 \end{document}
+l.1124 \end{document}
                       [10] (./turk_raters.aux) ) 
 Here is how much of TeX's memory you used:
  5772 strings out of 493848
@@ -608,7 +630,7 @@ exlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts
 /type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on turk_raters.pdf (10 pages, 245298 bytes).
+Output written on turk_raters.pdf (10 pages, 245077 bytes).
 PDF statistics:
  360 PDF objects out of 1000 (max. 8388607)
  83 named destinations out of 1000 (max. 500000)

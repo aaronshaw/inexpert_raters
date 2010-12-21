@@ -1512,7 +1512,7 @@ that copies bear this notice and the full citation on the first page. To
 copy otherwise, or republish, to post on servers or to redistribute to 
 lists, requires prior specific permission and/or a fee.\\
 {\confname{CSCW 2011}}, March 19-23, 2011, Hangzhou, China.\\ %edited to reflect cscw 2011
-Copyright 2010 ACM 978-1-60558-795-0/10/02...\$10.00.}
+Copyright 2011 ACM 978-1-60558-795-0/10/02...\$10.00.}
 
 
 % End of cscw2010.cls
