@@ -1,19 +1,14 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.11.6)  21 DEC 2010 09:32
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2010.11.6)  21 DEC 2010 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**turk_raters
-(./turk_raters.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
-ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
-9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
-skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
-orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
-, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
-rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
-(./cscw2010.cls (/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+**\nonstopmode \input{"/home/ads/Documents/Papers_and_presentations/inexpert_ra
+ters/writeup/turk_raters.tex"}
+
+(/home/ads/Documents/Papers_and_presentations/inexpert_raters/writeup/turk_rate
+rs.tex
+(/home/ads/Documents/Papers_and_presentations/inexpert_raters/writeup/cscw2010.
+cls (/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
 (/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
@@ -32,11 +27,10 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/etc/texmf/tex/latex/config/graphics.cfg
 File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: dvips.def on input line 91.
 
-(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
-\Gread@gobject=\count79
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
@@ -75,13 +69,13 @@ Package: amsbsy 1999/11/29 v1.2d
 (/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count80
+\inf@bad=\count79
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count81
-\leftroot@=\count82
+\uproot@=\count80
+\leftroot@=\count81
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count83
-\DOTSCASE@=\count84
+\classnum@=\count82
+\DOTSCASE@=\count83
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
@@ -90,15 +84,15 @@ LaTeX Info: Redefining \cdots on input line 467.
 \big@size=\dimen108
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count85
-\c@MaxMatrixCols=\count86
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
 \dotsspace@=\muskip10
-\c@parentequation=\count87
-\dspbrk@lvl=\count88
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
 \tag@help=\toks17
-\row@=\count89
-\column@=\count90
-\maxfields@=\count91
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
 \andhelp@=\toks18
 \eqnshift@=\dimen109
 \alignsep@=\dimen110
@@ -124,22 +118,22 @@ Excerpts were taken from (Journal Style) 'esub2acm.cls'.
 \footheight=\dimen115
 \@maxsep=\dimen116
 \@dblmaxsep=\dimen117
-\aucount=\count92
-\originalaucount=\count93
+\aucount=\count91
+\originalaucount=\count92
 \auwidth=\dimen118
 \auskip=\dimen119
-\auskipcount=\count94
+\auskipcount=\count93
 \auskip=\dimen120
 \allauboxes=\dimen121
 \addauthors=\toks21
-\addauflag=\count95
+\addauflag=\count94
 \subtitletext=\toks22
-\savesection=\count96
-\sectioncntr=\count97
-\c@figure=\count98
-\c@table=\count99
+\savesection=\count95
+\sectioncntr=\count96
+\c@figure=\count97
+\c@table=\count98
 \titleboxnotes=\toks23
-\titleboxnoteflag=\count100
+\titleboxnoteflag=\count99
 
 LaTeX Warning: You have requested document class `cscw2010',
                but the document class provides `ubicomp2009'.
@@ -152,25 +146,25 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
 \@acmtitlebox=\box28
-\titlenotecount=\count101
+\titlenotecount=\count100
 \tntoks=\toks24
 \tntokstwo=\toks25
 \tntoksthree=\toks26
 \tntoksfour=\toks27
 \tntoksfive=\toks28
-\catcount=\count102
+\catcount=\count101
 \copyrightnotice=\toks29
 \conf=\toks30
 \confinfo=\toks31
-\c@part=\count103
-\c@section=\count104
-\c@subsection=\count105
-\c@subsubsection=\count106
-\c@paragraph=\count107
+\c@part=\count102
+\c@section=\count103
+\c@subsection=\count104
+\c@subsubsection=\count105
+\c@paragraph=\count106
 
 Using 'Abbrev' bibliography style
 \bibindent=\dimen122
-\colcntr=\count108
+\colcntr=\count107
 \savebox=\box29
 \copyrtyr=\toks32
 \acmcopyr=\toks33
@@ -195,8 +189,11 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 (/etc/texmf/tex/latex/config/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
-)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
 (/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2009/10/17 v2.4 Conversion with epstopdf on the fly (HO)
 
@@ -239,20 +236,15 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 433.
 
-(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2009/10/26 v1.1 Configuration of epstopdf for TeX Live
-)))
-(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package epstopdf Warning: Other drivers than `pdftex.def' are not supported.
+
+)) (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
 
 (/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
+Package ifpdf Info: pdfTeX in pdf mode not detected.
 )
 (/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
@@ -269,8 +261,8 @@ O)
 Package: xcolor-patch 2009/10/02 xcolor patch
 ))
 \@linkdim=\dimen124
-\Hy@linkcounter=\count109
-\Hy@pagecounter=\count110
+\Hy@linkcounter=\count108
+\Hy@pagecounter=\count109
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
@@ -300,7 +292,7 @@ Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
 (/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
 Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
 ))
-\Fld@menulength=\count111
+\Fld@menulength=\count110
 \Field@Width=\dimen125
 \Fld@charsize=\dimen126
 \Field@toks=\toks36
@@ -319,17 +311,29 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 Package hyperref Warning: Option `pdfpagelabels' is turned off
 (hyperref)                because \thepage is undefined.
 
-\c@Item=\count112
-\c@Hfootnote=\count113
+\c@Item=\count111
+\c@Hfootnote=\count112
 )
-*hyperref using driver hpdftex*
-(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
-\Fld@listcount=\count114
-)
+
+Package hyperref Warning: Wrong driver `hpdftex.def';
+(hyperref)                pdfTeX is not running in PDF mode.
+(hyperref)                Using default driver.
+
+*hyperref using default driver hdvips*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2009/10/09 v6.79a Hyperref driver for dvips
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2009/10/09 v6.79a Hyperref definitions for pdfmark specials
+\pdf@docset=\toks37
+\pdf@box=\box30
+\pdf@toks=\toks38
+\pdf@defaulttoks=\toks39
+\Fld@listcount=\count113
+))
 (/usr/share/texmf-texlive/tex/latex/ltxmisc/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box30
+\@tempboxb=\box31
 )
 (/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
@@ -337,17 +341,17 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTright=\skip45
 \LTpre=\skip46
 \LTpost=\skip47
-\LTchunksize=\count115
+\LTchunksize=\count114
 \LTcapwidth=\dimen127
-\LT@head=\box31
-\LT@firsthead=\box32
-\LT@foot=\box33
-\LT@lastfoot=\box34
-\LT@cols=\count116
-\LT@rows=\count117
-\c@LT@tables=\count118
-\c@LT@chunks=\count119
-\LT@p@ftn=\toks37
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count115
+\LT@rows=\count116
+\c@LT@tables=\count117
+\c@LT@chunks=\count118
+\LT@p@ftn=\toks40
 )
 (/usr/share/texmf-texlive/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -361,18 +365,20 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen135
 \cmidrulekern=\dimen136
 \defaultaddspace=\dimen137
-\@cmidla=\count120
-\@cmidlb=\count121
+\@cmidla=\count119
+\@cmidlb=\count120
 \@aboverulesep=\dimen138
 \@belowrulesep=\dimen139
-\@thisruleclass=\count122
-\@lastruleclass=\count123
+\@thisruleclass=\count121
+\@lastruleclass=\count122
 \@thisrulewidth=\dimen140
 )
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 27.
 Package hyperref Info: Option `colorlinks' set `true' on input line 27.
 Package hyperref Info: Option `breaklinks' set `true' on input line 27.
- (./turk_raters.aux)
+
+(/home/ads/Documents/Papers_and_presentations/inexpert_raters/writeup/turk_rate
+rs.aux)
 \openout1 = `turk_raters.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -390,35 +396,26 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 34.
-
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/share/texmf/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
-\scratchdimen=\dimen141
-\scratchbox=\box35
-\nofMPsegments=\count125
-\nofMParguments=\count126
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count127
-\MPscratchDim=\dimen142
-\MPnumerator=\count128
-\everyMPtoPDFconversion=\toks39
-)
 Package hyperref Info: Link coloring ON on input line 34.
- (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count129
+\c@section@level=\count123
 )
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
- (./turk_raters.out) (./turk_raters.out)
+
+(/home/ads/Documents/Papers_and_presentations/inexpert_raters/writeup/turk_rate
+rs.out)
+(/home/ads/Documents/Papers_and_presentations/inexpert_raters/writeup/turk_rate
+rs.out)
 \@outlinefile=\write3
 \openout3 = `turk_raters.out'.
 
@@ -439,10 +436,8 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ [1
 
-
-Non-PDF special ignored!
 
 ]
 Overfull \hbox (1.19806pt too wide) in paragraph at lines 149--163
@@ -455,23 +450,13 @@ Overfull \hbox (2.39806pt too wide) in paragraph at lines 242--251
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.253 \subsection{Overview of Results}
-                                       [2]
+[2]
 Overfull \hbox (1.30658pt too wide) in paragraph at lines 327--333
 \OT1/ptm/m/n/10 skills; em-ploy-ment sta-tus; house-hold size; and in-ter-net s
 kills.
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.378 
-       [3]
+[3]
 Overfull \hbox (6.40741pt too wide) in paragraph at lines 397--417
 \OT1/ptm/m/n/10 gether, these in-cen-tive schemes en-com-pass a num-ber of sali
 ent
@@ -508,12 +493,7 @@ Overfull \hbox (5.36722pt too wide) in paragraph at lines 462--468
 []\OT1/ptm/m/n/10 ``After this HIT has been com-
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.468 \item[Reward Agreement (financial)]
-                                          ``After this HIT has been\\ [4]
+[4]
 Overfull \hbox (3.45764pt too wide) in paragraph at lines 490--508
 []\OT1/ptm/m/n/10 ``For the fol-low-
  []
@@ -528,33 +508,13 @@ Overfull \hbox (2.02858pt too wide) in paragraph at lines 515--525
 \OT1/ptm/m/n/10 The ex-per-i-ment ran from June 2 through Septem-ber 23, 2009.
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.578 
-       [5]
+[5]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 582.
-Package epstopdf Info: Source file: <../images/per_q.eps>
-(epstopdf)                    date: 2010-12-06 10:51:42
-(epstopdf)                    size: 33059 bytes
-(epstopdf)             Output file: <../images/per_q-eps-converted-to.pdf>
-(epstopdf)                    date: 2010-12-06 10:55:52
-(epstopdf)                    size: 10393 bytes
-(epstopdf)             Command: <epstopdf --outfile=../images/per_q-eps-convert
-ed-to.pdf ../images/per_q.eps>
-(epstopdf)             \includegraphics on input line 620.
-Package epstopdf Info: Output file is already uptodate.
-
-<../images/per_q-eps-converted-to.pdf, id=217, 578.16pt x 758.835pt>
-File: ../images/per_q-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ../images/per_q-eps-converted-to.pdf>
-<../images/AggPerf.pdf, id=220, 578.16pt x 578.16pt>
-File: ../images/AggPerf.pdf Graphic file (type pdf)
-
-<use ../images/AggPerf.pdf>
+File: ../images/per_q.eps Graphic file (type eps)
+ <../images/per_q.eps>
+File: ../images/AggPerf.eps Graphic file (type eps)
+ <../images/AggPerf.eps>
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 664.
 
 
@@ -565,22 +525,12 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 664.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 684.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.699 
-       [6 <../images/per_q-eps-converted-to.pdf> <../images/AggPerf.pdf>]
+ [6]
 Underfull \hbox (badness 10000) in paragraph at lines 766--768
   
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.810 
-       [7]
+[7]
 Overfull \hbox (4.00728pt too wide) in paragraph at lines 856--870
 \OT1/ptm/m/n/10 work-ers' abil-ity to per-form the sort of qual-i-ta-tive infor
 mation-
@@ -592,47 +542,16 @@ Overfull \hbox (4.12787pt too wide) in paragraph at lines 884--893
 on-
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.921 \section{Acknowledgments}
-                                [8]pdfTeX warning (ext4): destination with the 
-same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1090 \bibitem{shaffer1995}
-                             [9]pdfTeX warning (ext4): destination with the sam
-e identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1124 \end{document}
-                      [10] (./turk_raters.aux) ) 
+[8] [9] [10]
+(/home/ads/Documents/Papers_and_presentations/inexpert_raters/writeup/turk_rate
+rs.aux) ) 
 Here is how much of TeX's memory you used:
- 5772 strings out of 493848
- 80420 string characters out of 1152823
- 172870 words of memory out of 3000000
- 8808 multiletter control sequences out of 15000+50000
- 36996 words of font info for 81 fonts, out of 3000000 for 9000
+ 5410 strings out of 493849
+ 76674 string characters out of 1152846
+ 160735 words of memory out of 3000000
+ 8557 multiletter control sequences out of 15000+50000
+ 22741 words of font info for 68 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 41i,15n,38p,688b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts
-/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/
-texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1
-/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/s
-hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts
-/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/
-utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/sha
-re/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on turk_raters.pdf (10 pages, 245077 bytes).
-PDF statistics:
- 360 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42i,15n,38p,784b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on turk_raters.dvi (10 pages, 112820 bytes).
